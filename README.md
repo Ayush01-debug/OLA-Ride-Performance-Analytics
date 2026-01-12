@@ -40,8 +40,7 @@ The objective is to transform raw booking data into meaningful business insights
 - Clean and business-focused dashboard design
 
 ---## 📊 Dashboard Preview
-
-![OLA Dashboard](images/dashboard_desktop.png)
+![OLA Dashboard](images/dashboard_desktop(2).png)
 
 ---
 
