@@ -36,7 +36,6 @@ The objective is to transform raw booking data into meaningful business insights
 - Filters and slicers for dynamic analysis by:
   - Booking Status  
   - Vehicle Type  
-  - Payment Method  
 - Clean and business-focused dashboard design
 
 ---## 📊 Dashboard Preview
