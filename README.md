@@ -39,6 +39,10 @@ The objective is to transform raw booking data into meaningful business insights
   - Payment Method  
 - Clean and business-focused dashboard design
 
+---## 📊 Dashboard Preview
+
+![OLA Dashboard](images/dashboard_desktop.png)
+
 ---
 
 ## 💡 Key Insights
