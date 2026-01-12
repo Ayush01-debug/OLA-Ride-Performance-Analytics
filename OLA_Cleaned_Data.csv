@@ -1,0 +1,1001 @@
+booking_ID,booking_Status,vehicle_Type,pickup_Location,drop_Location,payment_Method,incomplete_rides_clean,booking_value_clean,ride_distance_clean,driver_rating_clean,customer_rating_clean
+CNR7153255142,"Canceled by Driver","Prime Sedan","Tumkur Road","RT Nagar",null,Unknown,444.00,0.00,NULL,NULL
+CNR2940424040,Success,Bike,"Magadi Road",Varthur,Cash,No,158.00,13.00,4.10,4.00
+CNR2982357879,Success,"Prime SUV","Sahakar Nagar",Varthur,UPI,No,386.00,40.00,4.20,4.80
+CNR2395710036,"Canceled by Customer",eBike,"HSR Layout",Vijayanagar,null,Unknown,384.00,0.00,NULL,NULL
+CNR1797421769,Success,Mini,Rajajinagar,Chamarajpet,"Credit Card",No,822.00,45.00,4.00,3.00
+CNR8787177882,Success,Mini,Kadugodi,Vijayanagar,UPI,No,173.00,41.00,3.40,4.60
+CNR3612067560,Success,Bike,"Tumkur Road",Whitefield,Cash,No,140.00,49.00,3.20,4.50
+CNR5374902489,"Canceled by Driver","Prime Plus","Bannerghatta Road","Sarjapur Road",null,Unknown,344.00,0.00,NULL,NULL
+CNR5030602354,"Driver Not Found",Mini,Chamarajpet,Peenya,null,Unknown,839.00,0.00,NULL,NULL
+CNR6328453219,"Canceled by Driver",Auto,"RT Nagar",Varthur,null,Unknown,893.00,0.00,NULL,NULL
+CNR4787583516,Success,"Prime Plus","Hosur Road",Jayanagar,Cash,No,164.00,46.00,4.50,3.40
+CNR7943634301,Success,"Prime Plus",Kammanahalli,Rajajinagar,Cash,No,399.00,18.00,3.90,4.40
+CNR4524472111,Success,Auto,"Cox Town",Yelahanka,UPI,No,330.00,8.00,3.00,4.80
+CNR3914552212,"Canceled by Driver",Auto,"Hosur Road",Banashankari,null,Unknown,427.00,0.00,NULL,NULL
+CNR8181602032,Success,Bike,Indiranagar,"MG Road",UPI,No,378.00,18.00,4.80,4.10
+CNR8090918544,Success,Bike,"Magadi Road","HSR Layout",UPI,No,343.00,23.00,3.70,3.60
+CNR3211335290,"Driver Not Found",Mini,"Ramamurthy Nagar","BTM Layout",null,Unknown,366.00,0.00,NULL,NULL
+CNR3196156650,Success,Bike,"Electronic City","Langford Town",Cash,No,401.00,8.00,3.30,3.90
+CNR9975925287,Success,"Prime SUV","Magadi Road","RT Nagar",UPI,No,343.00,17.00,3.00,3.80
+CNR1591113431,Success,eBike,Koramangala,"Sarjapur Road",Cash,No,2014.00,33.00,4.20,4.90
+CNR3650331573,Success,eBike,Basavanagudi,Hulimavu,Cash,No,650.00,34.00,4.90,3.40
+CNR6013805089,Success,"Prime Sedan",Padmanabhanagar,Jayanagar,Cash,No,231.00,2.00,3.20,3.70
+CNR4306636052,"Canceled by Driver","Prime SUV","Mysore Road",Vijayanagar,null,Unknown,909.00,0.00,NULL,NULL
+CNR9832070187,Success,Bike,Koramangala,"BTM Layout",Cash,No,189.00,6.00,4.90,3.30
+CNR5620539253,Success,"Prime Plus","Mysore Road","Sahakar Nagar",Cash,No,311.00,28.00,4.30,3.00
+CNR4443921904,Success,Mini,"Tumkur Road",Koramangala,UPI,No,286.00,44.00,4.00,3.30
+CNR7194303296,Success,Mini,"Mysore Road",Hennur,UPI,No,141.00,35.00,4.70,3.10
+CNR6494005067,Success,Auto,Yelahanka,Malleshwaram,UPI,No,214.00,2.00,3.30,4.50
+CNR6805579107,Success,"Prime SUV",Indiranagar,Indiranagar,Cash,No,2183.00,20.00,4.00,4.40
+CNR6003663433,"Canceled by Customer","Prime Plus",Rajajinagar,Chamarajpet,null,Unknown,604.00,0.00,NULL,NULL
+CNR2998177390,"Driver Not Found",Auto,"RT Nagar",Yelahanka,null,Unknown,802.00,0.00,NULL,NULL
+CNR7979458138,Success,eBike,"Frazer Town",Indiranagar,Cash,No,1095.00,38.00,4.80,4.70
+CNR7286474506,"Canceled by Customer",eBike,Jayanagar,"Richmond Town",null,Unknown,120.00,0.00,NULL,NULL
+CNR9820692957,Success,"Prime Sedan",Koramangala,"Hosur Road",Cash,No,241.00,33.00,3.20,3.50
+CNR4094067439,Success,"Prime Sedan",Majestic,Jayanagar,Cash,No,475.00,45.00,4.30,3.10
+CNR7142279862,Success,eBike,Yeshwanthpur,"JP Nagar",UPI,No,461.00,49.00,4.50,3.10
+CNR5488574120,"Canceled by Driver",Auto,Peenya,"Hosur Road",null,Unknown,783.00,0.00,NULL,NULL
+CNR8148468821,"Canceled by Driver","Prime Plus",Marathahalli,"BTM Layout",null,Unknown,995.00,0.00,NULL,NULL
+CNR5176704322,Success,"Prime Plus","KR Puram",Hennur,UPI,Yes,1102.00,41.00,3.10,3.50
+CNR9287248724,"Canceled by Driver","Prime SUV","Hosur Road",Yeshwanthpur,null,Unknown,170.00,0.00,NULL,NULL
+CNR7547352327,Success,"Prime Plus",Hulimavu,"Rajarajeshwari Nagar",UPI,No,444.00,6.00,3.80,4.90
+CNR9660405769,"Canceled by Driver",eBike,"Electronic City",Varthur,null,Unknown,1130.00,0.00,NULL,NULL
+CNR4251304471,Success,"Prime SUV",Shivajinagar,Jayanagar,Cash,No,876.00,21.00,4.70,3.30
+CNR1568684278,Success,"Prime Plus","Bannerghatta Road",Majestic,UPI,No,680.00,24.00,4.70,3.80
+CNR2230045814,Success,"Prime SUV","Cox Town",Chamarajpet,Cash,No,425.00,11.00,3.50,4.60
+CNR7871058089,Success,Mini,Hennur,Kengeri,Cash,No,989.00,4.00,4.50,4.20
+CNR5503358927,"Driver Not Found",Bike,Peenya,"MG Road",null,Unknown,594.00,0.00,NULL,NULL
+CNR2708187615,Success,"Prime Plus",Devanahalli,Rajajinagar,Cash,No,443.00,5.00,3.40,3.10
+CNR1625119636,Success,eBike,"Ramamurthy Nagar","Sahakar Nagar",Cash,No,721.00,19.00,3.80,4.70
+CNR9312632867,Success,"Prime SUV","Tumkur Road","Mysore Road",Cash,Yes,2936.00,34.00,4.10,4.60
+CNR5274603340,Success,"Prime SUV","Electronic City",Banashankari,Cash,No,747.00,25.00,5.00,3.50
+CNR1050003752,Success,Bike,Chamarajpet,Shivajinagar,UPI,No,799.00,25.00,3.90,4.70
+CNR3603517873,Success,eBike,"Rajarajeshwari Nagar",Marathahalli,Cash,No,300.00,14.00,3.30,4.60
+CNR1557960488,"Driver Not Found","Prime SUV","Rajarajeshwari Nagar",Varthur,null,Unknown,162.00,0.00,NULL,NULL
+CNR9758857830,Success,"Prime Plus","HSR Layout","Magadi Road",UPI,No,618.00,30.00,3.50,3.70
+CNR8080410192,Success,eBike,Jayanagar,"JP Nagar",UPI,No,251.00,9.00,5.00,4.40
+CNR1648186942,"Canceled by Driver",Bike,Hennur,Padmanabhanagar,null,Unknown,543.00,0.00,NULL,NULL
+CNR2433490646,Success,Mini,Hennur,Chamarajpet,Cash,No,724.00,11.00,4.50,4.80
+CNR7825941026,Success,Mini,Marathahalli,"Langford Town",UPI,No,316.00,27.00,3.10,4.70
+CNR9148580255,Success,"Prime SUV","Tumkur Road","Magadi Road",UPI,No,138.00,24.00,5.00,3.00
+CNR2946309760,Success,"Prime Plus","Hosur Road",Hennur,Cash,No,467.00,24.00,4.50,4.20
+CNR3472489570,"Driver Not Found","Prime SUV","Electronic City",Marathahalli,null,Unknown,565.00,0.00,NULL,NULL
+CNR1768885472,"Canceled by Driver","Prime SUV",Basavanagudi,Padmanabhanagar,null,Unknown,276.00,0.00,NULL,NULL
+CNR7486448495,Success,Auto,Ulsoor,Padmanabhanagar,UPI,No,296.00,5.00,4.00,4.30
+CNR2735636504,"Driver Not Found","Prime SUV","Cox Town",Chamarajpet,null,Unknown,1310.00,0.00,NULL,NULL
+CNR7533317866,"Canceled by Customer",Mini,Shantinagar,Hulimavu,null,Unknown,771.00,0.00,NULL,NULL
+CNR5758479139,Success,"Prime Sedan","RT Nagar",Chickpet,Cash,No,279.00,43.00,4.30,3.40
+CNR8021985469,Success,Mini,"Hosur Road",Kadugodi,Cash,No,321.00,39.00,3.30,4.70
+CNR3800597072,Success,Mini,"JP Nagar",Chickpet,Cash,No,457.00,1.00,4.10,3.40
+CNR6179425512,Success,Mini,"Bannerghatta Road",Basavanagudi,Cash,No,139.00,45.00,4.90,3.80
+CNR7924302885,Success,Auto,"Magadi Road",Nagarbhavi,UPI,Yes,685.00,7.00,4.10,4.90
+CNR7181374756,"Canceled by Driver",Auto,Devanahalli,Kammanahalli,null,Unknown,150.00,0.00,NULL,NULL
+CNR2830899440,Success,Mini,Kadugodi,"Frazer Town",UPI,No,196.00,21.00,4.30,3.40
+CNR7592165192,"Canceled by Driver","Prime SUV","Rajarajeshwari Nagar","HSR Layout",null,Unknown,424.00,0.00,NULL,NULL
+CNR6077524333,"Canceled by Driver","Prime SUV",Chickpet,Shantinagar,null,Unknown,827.00,0.00,NULL,NULL
+CNR8854206454,Success,eBike,"Langford Town",Kadugodi,Cash,No,770.00,27.00,3.30,4.30
+CNR6387231274,"Driver Not Found","Prime Sedan","Bannerghatta Road",Indiranagar,null,Unknown,325.00,0.00,NULL,NULL
+CNR6215530366,Success,eBike,Devanahalli,Jayanagar,Cash,No,986.00,18.00,4.60,4.80
+CNR4314026109,Success,"Prime SUV","Tumkur Road","Bannerghatta Road",Cash,No,2208.00,40.00,4.00,4.50
+CNR9027465661,Success,"Prime Sedan","BTM Layout",Majestic,UPI,No,1695.00,20.00,4.50,4.70
+CNR5003494701,"Canceled by Driver",Mini,"Sarjapur Road",Majestic,null,Unknown,305.00,0.00,NULL,NULL
+CNR2064658821,Success,Bike,Peenya,Devanahalli,Cash,No,2271.00,37.00,3.40,4.20
+CNR2149029235,Success,Auto,Chickpet,Hennur,UPI,No,240.00,4.00,4.00,4.90
+CNR9704400677,Success,Mini,"Langford Town",Vijayanagar,Cash,No,482.00,37.00,4.40,3.90
+CNR8836460204,Success,eBike,Bellandur,Shantinagar,UPI,No,536.00,17.00,3.90,4.40
+CNR3697318609,Success,Bike,"Sarjapur Road",Chickpet,UPI,No,188.00,37.00,4.90,4.10
+CNR6541289543,"Canceled by Driver","Prime SUV","Frazer Town",Whitefield,null,Unknown,202.00,0.00,NULL,NULL
+CNR8369601219,"Canceled by Driver","Prime SUV","Richmond Town",Jayanagar,null,Unknown,1609.00,0.00,NULL,NULL
+CNR8346388703,"Canceled by Driver",Mini,"Magadi Road","BTM Layout",null,Unknown,1821.00,0.00,NULL,NULL
+CNR4445082348,Success,Mini,Yelahanka,"BTM Layout",UPI,No,415.00,22.00,3.60,3.10
+CNR5528764313,Success,"Prime SUV","Ramamurthy Nagar","Bannerghatta Road",UPI,No,2125.00,6.00,3.80,4.60
+CNR3967141568,"Canceled by Driver",Auto,Padmanabhanagar,"Ramamurthy Nagar",null,Unknown,758.00,0.00,NULL,NULL
+CNR7054352438,"Driver Not Found",Mini,Hennur,"Cox Town",null,Unknown,653.00,0.00,NULL,NULL
+CNR1640228587,Success,"Prime Sedan",Kengeri,"Mysore Road",Cash,Yes,704.00,42.00,4.70,4.80
+CNR6684033796,Success,Auto,Indiranagar,Whitefield,Cash,No,385.00,19.00,4.10,3.70
+CNR4158584922,Success,Auto,"Sahakar Nagar","Ramamurthy Nagar",UPI,No,934.00,12.00,3.30,5.00
+CNR5133236273,"Canceled by Driver","Prime Plus",Banashankari,Chickpet,null,Unknown,615.00,0.00,NULL,NULL
+CNR5661490576,Success,Bike,"Magadi Road","Electronic City",Cash,No,2202.00,44.00,4.70,3.40
+CNR2304446757,Success,eBike,"Rajarajeshwari Nagar","MG Road",Cash,No,205.00,43.00,4.10,3.10
+CNR3780555542,"Canceled by Customer",Mini,"Tumkur Road",Chamarajpet,null,Unknown,513.00,0.00,NULL,NULL
+CNR1559782157,Success,Auto,Ulsoor,Bellandur,Cash,No,247.00,8.00,3.10,3.30
+CNR7623690602,Success,Bike,"Cox Town",Malleshwaram,UPI,Yes,558.00,41.00,3.20,3.20
+CNR2098165198,Success,"Prime Sedan",Yelahanka,"Ramamurthy Nagar",UPI,No,291.00,5.00,3.80,3.30
+CNR5502012579,Success,Mini,Vijayanagar,Kengeri,Cash,No,925.00,22.00,3.00,4.00
+CNR4698965967,Success,"Prime Sedan","Ramamurthy Nagar",Chickpet,Cash,No,121.00,44.00,3.80,4.50
+CNR8566688320,"Driver Not Found",Bike,Chickpet,Shivajinagar,null,Unknown,404.00,0.00,NULL,NULL
+CNR8014852782,"Canceled by Customer","Prime Plus",Kammanahalli,"Magadi Road",null,Unknown,223.00,0.00,NULL,NULL
+CNR6012739836,"Driver Not Found","Prime Sedan","Ramamurthy Nagar","Magadi Road",null,Unknown,2989.00,0.00,NULL,NULL
+CNR3404012927,Success,Mini,Chickpet,Chamarajpet,Cash,No,728.00,14.00,4.30,5.00
+CNR9282027845,Success,Bike,Yeshwanthpur,"KR Puram",UPI,No,2416.00,49.00,3.10,3.80
+CNR5508853708,"Canceled by Customer","Prime Plus",Shivajinagar,"HSR Layout",null,Unknown,371.00,0.00,NULL,NULL
+CNR4241139229,Success,"Prime Plus",Kammanahalli,Shivajinagar,Cash,No,258.00,32.00,4.70,4.10
+CNR8306274838,"Driver Not Found",Bike,Bellandur,"Rajarajeshwari Nagar",null,Unknown,170.00,0.00,NULL,NULL
+CNR1903850514,"Canceled by Customer",eBike,"Mysore Road",Vijayanagar,null,Unknown,151.00,0.00,NULL,NULL
+CNR1852948877,"Canceled by Driver","Prime Sedan",Yelahanka,Majestic,null,Unknown,425.00,0.00,NULL,NULL
+CNR5744401218,Success,Bike,Yelahanka,Varthur,UPI,No,220.00,2.00,3.40,3.10
+CNR7221640450,Success,"Prime Sedan","RT Nagar",Whitefield,UPI,No,472.00,16.00,3.30,4.50
+CNR8395803905,"Canceled by Driver",eBike,"Bannerghatta Road","RT Nagar",null,Unknown,616.00,0.00,NULL,NULL
+CNR3750351374,Success,"Prime SUV","Mysore Road",Peenya,Cash,No,473.00,49.00,4.00,4.20
+CNR2869164142,Success,"Prime SUV","BTM Layout",Malleshwaram,Cash,No,259.00,11.00,4.80,4.50
+CNR8303547069,Success,Mini,"Langford Town","Richmond Town","Credit Card",No,310.00,2.00,3.30,3.10
+CNR7368110421,"Canceled by Driver",Mini,Peenya,"Sarjapur Road",null,Unknown,200.00,0.00,NULL,NULL
+CNR7500310853,Success,"Prime Sedan",Jayanagar,"Richmond Town",UPI,No,471.00,39.00,3.50,3.70
+CNR8925319975,Success,"Prime Sedan",Yelahanka,Rajajinagar,UPI,No,442.00,37.00,4.10,4.50
+CNR9261561390,Success,Auto,Koramangala,Majestic,Cash,No,228.00,10.00,3.70,4.30
+CNR3165383119,"Canceled by Driver","Prime SUV",Devanahalli,"KR Puram",null,Unknown,232.00,0.00,NULL,NULL
+CNR7006798592,"Driver Not Found","Prime Sedan",Ulsoor,"RT Nagar",null,Unknown,344.00,0.00,NULL,NULL
+CNR5613886410,Success,Auto,Marathahalli,"KR Puram",UPI,No,2604.00,10.00,3.80,4.10
+CNR5841521780,Success,"Prime SUV","Ramamurthy Nagar",Varthur,Cash,No,274.00,37.00,3.10,3.60
+CNR1281921513,"Canceled by Customer",Mini,Malleshwaram,"Magadi Road",null,Unknown,895.00,0.00,NULL,NULL
+CNR2959980296,Success,Bike,"Hosur Road","Richmond Town",Cash,No,279.00,34.00,4.50,3.20
+CNR6765124275,Success,"Prime Sedan",Chamarajpet,Banashankari,Cash,No,1946.00,16.00,3.00,3.50
+CNR9762994658,Success,"Prime Plus","RT Nagar","Sahakar Nagar",UPI,No,1024.00,4.00,4.80,4.10
+CNR8072285783,"Canceled by Customer","Prime Plus","Frazer Town","Sarjapur Road",null,Unknown,294.00,0.00,NULL,NULL
+CNR8116331340,Success,Auto,"RT Nagar","Sarjapur Road",UPI,No,252.00,8.00,4.00,4.80
+CNR3491700602,Success,Mini,"Richmond Town","Langford Town",UPI,No,2542.00,2.00,3.50,4.10
+CNR2166456022,Success,Mini,Yeshwanthpur,Indiranagar,Cash,No,1821.00,34.00,4.40,4.70
+CNR2177201692,Success,Mini,"Richmond Town",Yeshwanthpur,Cash,No,200.00,31.00,4.90,4.00
+CNR5755482161,"Canceled by Driver","Prime SUV",Koramangala,Indiranagar,null,Unknown,152.00,0.00,NULL,NULL
+CNR4484571820,Success,Auto,"HSR Layout","Hosur Road",Cash,No,2388.00,4.00,4.40,3.60
+CNR7377461832,Success,eBike,Ulsoor,Padmanabhanagar,Cash,No,783.00,37.00,3.50,3.50
+CNR2363111317,"Driver Not Found","Prime Plus","Electronic City","KR Puram",null,Unknown,208.00,0.00,NULL,NULL
+CNR2976802436,Success,"Prime SUV","Tumkur Road","Cox Town",UPI,No,1181.00,10.00,3.40,4.90
+CNR8474873609,"Canceled by Customer","Prime Plus","HSR Layout","KR Puram",null,Unknown,843.00,0.00,NULL,NULL
+CNR1945536909,Success,Auto,"Sahakar Nagar","JP Nagar",Cash,No,441.00,7.00,3.00,3.10
+CNR8097291227,Success,"Prime Plus","Mysore Road",Rajajinagar,UPI,No,332.00,38.00,3.80,3.40
+CNR1433815646,Success,"Prime SUV",Banashankari,Marathahalli,Cash,No,832.00,11.00,3.40,4.10
+CNR5876056264,Success,"Prime SUV",Kadugodi,Shantinagar,UPI,No,1361.00,47.00,4.00,3.90
+CNR2943788515,"Canceled by Driver",Bike,Shantinagar,"Ramamurthy Nagar",null,Unknown,415.00,0.00,NULL,NULL
+CNR5599931622,Success,"Prime SUV",Peenya,"Frazer Town",Cash,No,747.00,28.00,3.80,3.00
+CNR6776927575,Success,Bike,"Hosur Road",Nagarbhavi,Cash,No,129.00,5.00,4.40,4.20
+CNR4880622143,Success,eBike,Rajajinagar,Kammanahalli,UPI,No,296.00,34.00,3.30,4.20
+CNR2841702950,Success,Auto,"Sarjapur Road","Sarjapur Road",UPI,No,337.00,18.00,4.50,4.20
+CNR2747846957,Success,"Prime Sedan",Majestic,Malleshwaram,UPI,No,896.00,45.00,4.00,4.10
+CNR4795488474,Success,"Prime Sedan",Peenya,"Frazer Town","Credit Card",No,151.00,11.00,4.00,4.80
+CNR6662649739,Success,Auto,"Ramamurthy Nagar",Banashankari,"Debit Card",No,940.00,7.00,3.20,3.50
+CNR2524442918,Success,"Prime Plus",Hulimavu,"RT Nagar","Credit Card",No,729.00,13.00,4.50,5.00
+CNR4977956798,Success,Auto,Banashankari,"Sarjapur Road",Cash,No,128.00,1.00,4.60,4.80
+CNR2002215420,Success,"Prime SUV",Whitefield,"BTM Layout",Cash,No,274.00,42.00,4.00,3.40
+CNR9590311980,Success,Auto,"Bannerghatta Road","Tumkur Road",Cash,Yes,352.00,8.00,5.00,3.80
+CNR3124565731,Success,Auto,Basavanagudi,Chickpet,UPI,No,238.00,6.00,4.50,3.00
+CNR6090870401,Success,"Prime SUV","Ramamurthy Nagar","KR Puram",Cash,No,477.00,19.00,4.10,4.30
+CNR9405757355,Success,Auto,"Richmond Town",Banashankari,UPI,No,186.00,15.00,4.70,4.60
+CNR7078608984,"Driver Not Found",eBike,Shantinagar,Hebbal,null,Unknown,117.00,0.00,NULL,NULL
+CNR4166475803,Success,"Prime SUV",Banashankari,Yelahanka,UPI,No,193.00,13.00,3.80,3.20
+CNR3641224150,Success,Mini,Majestic,"Magadi Road",UPI,No,395.00,41.00,4.30,4.80
+CNR7307808711,Success,"Prime SUV","MG Road","BTM Layout",Cash,No,857.00,45.00,4.70,4.00
+CNR9207534980,"Canceled by Driver","Prime Plus",Whitefield,Kammanahalli,null,Unknown,819.00,0.00,NULL,NULL
+CNR8478607960,Success,"Prime Sedan",Shivajinagar,"BTM Layout",UPI,No,484.00,16.00,4.10,4.50
+CNR6867991693,Success,"Prime Plus",Bellandur,Indiranagar,Cash,No,648.00,3.00,4.90,4.80
+CNR4134417165,Success,Bike,Ulsoor,Whitefield,Cash,No,153.00,20.00,4.10,3.90
+CNR6026842144,Success,"Prime SUV","Bannerghatta Road",Padmanabhanagar,"Credit Card",No,232.00,28.00,4.30,4.70
+CNR1373400641,"Canceled by Driver",Mini,Shivajinagar,Kadugodi,null,Unknown,478.00,0.00,NULL,NULL
+CNR7756361076,"Canceled by Driver",Auto,Koramangala,Hebbal,null,Unknown,850.00,0.00,NULL,NULL
+CNR1058833099,Success,Bike,"Frazer Town",Jayanagar,Cash,No,673.00,25.00,4.10,3.60
+CNR8150133799,"Driver Not Found",eBike,Chickpet,"HSR Layout",null,Unknown,315.00,0.00,NULL,NULL
+CNR3136784868,Success,"Prime SUV",Shivajinagar,Indiranagar,Cash,No,1033.00,2.00,4.10,3.60
+CNR2919641369,"Canceled by Customer","Prime SUV","Tumkur Road","Langford Town",null,Unknown,825.00,0.00,NULL,NULL
+CNR4311649934,"Canceled by Customer","Prime SUV","Sahakar Nagar","Hosur Road",null,Unknown,213.00,0.00,NULL,NULL
+CNR8258871692,"Driver Not Found",Auto,Peenya,"Cox Town",null,Unknown,125.00,0.00,NULL,NULL
+CNR7844432925,Success,"Prime SUV","Electronic City","KR Puram",Cash,No,362.00,36.00,4.10,4.60
+CNR3149119791,Success,Mini,Hebbal,Ulsoor,"Credit Card",No,471.00,22.00,3.50,3.30
+CNR6545513695,Success,"Prime SUV",Kengeri,Devanahalli,UPI,No,163.00,23.00,4.30,4.30
+CNR6427297269,Success,Mini,Shivajinagar,"KR Puram",Cash,No,142.00,6.00,3.80,3.60
+CNR1684336791,"Canceled by Customer","Prime Plus","HSR Layout",Kengeri,null,Unknown,451.00,0.00,NULL,NULL
+CNR8107628541,"Canceled by Customer","Prime SUV",Peenya,Kadugodi,null,Unknown,358.00,0.00,NULL,NULL
+CNR8516392891,Success,"Prime Sedan",Shivajinagar,Kadugodi,Cash,No,365.00,36.00,4.90,4.00
+CNR5043217856,"Canceled by Driver",Auto,"Sarjapur Road",Chamarajpet,null,Unknown,752.00,0.00,NULL,NULL
+CNR7829903493,"Canceled by Driver",eBike,Indiranagar,Kammanahalli,null,Unknown,531.00,0.00,NULL,NULL
+CNR4290294193,"Canceled by Driver",Auto,"Richmond Town","Sahakar Nagar",null,Unknown,111.00,0.00,NULL,NULL
+CNR4330381266,Success,Auto,Banashankari,"Rajarajeshwari Nagar",UPI,No,216.00,5.00,4.40,4.30
+CNR6146948780,Success,eBike,"Bannerghatta Road",Kammanahalli,UPI,No,147.00,39.00,3.30,3.20
+CNR4211386643,"Canceled by Driver",eBike,"RT Nagar","HSR Layout",null,Unknown,433.00,0.00,NULL,NULL
+CNR5828080027,Success,"Prime Plus","Sarjapur Road",Banashankari,UPI,No,664.00,24.00,3.60,4.40
+CNR5043719137,Success,Mini,Banashankari,Kammanahalli,UPI,No,159.00,40.00,4.00,4.70
+CNR2332223815,Success,Mini,Whitefield,"Ramamurthy Nagar",UPI,No,556.00,27.00,5.00,3.20
+CNR5863244684,Success,eBike,Hebbal,"HSR Layout",Cash,Yes,184.00,2.00,4.30,4.40
+CNR2051641681,Success,Auto,Ulsoor,Kadugodi,Cash,No,295.00,6.00,3.50,3.20
+CNR6963252366,Success,Bike,Yeshwanthpur,Kadugodi,Cash,No,794.00,25.00,4.80,4.00
+CNR6561084640,Success,Bike,Kengeri,"Magadi Road",Cash,No,330.00,27.00,4.00,4.10
+CNR8606343558,Success,Bike,Kadugodi,Yeshwanthpur,UPI,No,187.00,34.00,4.90,3.80
+CNR6129451090,Success,"Prime Sedan",Shantinagar,"Bannerghatta Road",Cash,No,487.00,9.00,3.60,3.80
+CNR8991153488,"Canceled by Driver",eBike,Vijayanagar,Kadugodi,null,Unknown,426.00,0.00,NULL,NULL
+CNR3555127202,Success,Auto,Koramangala,Varthur,Cash,No,229.00,15.00,4.60,5.00
+CNR2478670622,Success,"Prime Plus",Hennur,"Hosur Road",UPI,No,445.00,48.00,4.90,4.60
+CNR2637746164,Success,Auto,Hebbal,Majestic,Cash,No,134.00,8.00,3.30,4.00
+CNR1098685369,Success,Auto,Basavanagudi,Nagarbhavi,Cash,No,119.00,9.00,4.20,4.00
+CNR3013333422,"Driver Not Found",eBike,Kadugodi,Hennur,null,Unknown,214.00,0.00,NULL,NULL
+CNR6731320458,Success,"Prime Sedan","Hosur Road",Koramangala,Cash,No,113.00,14.00,4.90,3.60
+CNR1523677800,"Canceled by Driver","Prime SUV","Ramamurthy Nagar",Kammanahalli,null,Unknown,362.00,0.00,NULL,NULL
+CNR5683291566,Success,"Prime SUV","Sahakar Nagar",Indiranagar,UPI,No,545.00,6.00,3.30,4.90
+CNR9411398805,Success,"Prime Plus",Padmanabhanagar,"RT Nagar",Cash,No,498.00,11.00,3.20,4.30
+CNR7845975089,"Driver Not Found",Bike,"RT Nagar",Ulsoor,null,Unknown,117.00,0.00,NULL,NULL
+CNR3855977560,"Canceled by Driver","Prime Sedan",Hulimavu,"Richmond Town",null,Unknown,230.00,0.00,NULL,NULL
+CNR6774178719,Success,eBike,"KR Puram",Marathahalli,Cash,No,304.00,28.00,3.60,3.00
+CNR4046969463,"Canceled by Driver","Prime Plus",Koramangala,Devanahalli,null,Unknown,318.00,0.00,NULL,NULL
+CNR4475747544,Success,"Prime Sedan",Chickpet,"Langford Town",Cash,No,130.00,18.00,3.10,4.90
+CNR5165798104,Success,Bike,"Bannerghatta Road",Koramangala,Cash,No,419.00,12.00,4.70,4.20
+CNR4392965412,"Canceled by Driver","Prime SUV",Kammanahalli,"Richmond Town",null,Unknown,399.00,0.00,NULL,NULL
+CNR1167401662,"Driver Not Found",Mini,"JP Nagar",Hulimavu,null,Unknown,2900.00,0.00,NULL,NULL
+CNR2822610940,Success,Bike,"Mysore Road",Yelahanka,Cash,No,121.00,31.00,4.20,3.10
+CNR6691577601,Success,"Prime Sedan","MG Road","RT Nagar",UPI,No,107.00,27.00,3.50,3.30
+CNR9445908039,"Canceled by Customer",Mini,"Hosur Road",Banashankari,null,Unknown,424.00,0.00,NULL,NULL
+CNR3423157511,"Canceled by Driver",Bike,"Electronic City",Nagarbhavi,null,Unknown,307.00,0.00,NULL,NULL
+CNR1324239592,Success,eBike,"KR Puram",Kammanahalli,Cash,No,583.00,40.00,4.50,4.20
+CNR8086928686,"Canceled by Driver",Mini,Nagarbhavi,"MG Road",null,Unknown,325.00,0.00,NULL,NULL
+CNR3412387949,Success,"Prime Sedan",Majestic,Hulimavu,UPI,No,216.00,33.00,4.40,4.50
+CNR9728294566,"Canceled by Driver",Mini,Indiranagar,Whitefield,null,Unknown,337.00,0.00,NULL,NULL
+CNR3797886537,Success,"Prime SUV","KR Puram",Yeshwanthpur,Cash,No,373.00,26.00,4.60,4.10
+CNR2918335042,"Canceled by Customer",Bike,"Magadi Road",Vijayanagar,null,Unknown,121.00,0.00,NULL,NULL
+CNR7683288053,Success,"Prime Plus",Vijayanagar,"KR Puram",UPI,No,584.00,18.00,3.10,3.30
+CNR7308621555,"Canceled by Customer",Mini,"Sahakar Nagar",Whitefield,null,Unknown,372.00,0.00,NULL,NULL
+CNR6893200456,"Canceled by Driver","Prime SUV",Whitefield,"Rajarajeshwari Nagar",null,Unknown,482.00,0.00,NULL,NULL
+CNR8506315424,"Canceled by Customer",Mini,"Hosur Road",Peenya,null,Unknown,169.00,0.00,NULL,NULL
+CNR6289456005,"Driver Not Found",Bike,Malleshwaram,Malleshwaram,null,Unknown,655.00,0.00,NULL,NULL
+CNR3652386033,Success,Bike,Jayanagar,"MG Road",UPI,No,398.00,4.00,3.30,3.30
+CNR7500140086,Success,"Prime SUV","Langford Town","Tumkur Road",Cash,No,198.00,2.00,3.30,3.60
+CNR9206491878,"Driver Not Found","Prime Sedan",Rajajinagar,Padmanabhanagar,null,Unknown,482.00,0.00,NULL,NULL
+CNR1508971604,Success,"Prime Sedan",Hebbal,"BTM Layout",UPI,No,305.00,23.00,3.80,4.40
+CNR4004898445,"Canceled by Driver",Mini,Peenya,Padmanabhanagar,null,Unknown,294.00,0.00,NULL,NULL
+CNR8826275068,Success,"Prime Sedan","Richmond Town","Tumkur Road",Cash,No,161.00,5.00,4.10,4.00
+CNR9942066704,"Canceled by Driver","Prime Sedan",Yelahanka,"Sarjapur Road",null,Unknown,404.00,0.00,NULL,NULL
+CNR2361275900,Success,Auto,"Magadi Road",Peenya,Cash,No,169.00,12.00,4.70,3.80
+CNR4419040819,Success,Bike,Kengeri,Devanahalli,UPI,No,501.00,49.00,4.50,3.10
+CNR1911058132,Success,Mini,"Mysore Road","Hosur Road",Cash,No,101.00,1.00,3.60,3.70
+CNR8926984331,Success,Auto,Kengeri,Shantinagar,Cash,No,192.00,15.00,4.60,4.50
+CNR2191224963,"Canceled by Driver",Mini,Koramangala,Varthur,null,Unknown,393.00,0.00,NULL,NULL
+CNR6024993831,"Canceled by Customer",eBike,"Cox Town",Kadugodi,null,Unknown,414.00,0.00,NULL,NULL
+CNR3704418934,"Canceled by Customer",Bike,Yeshwanthpur,Malleshwaram,null,Unknown,1816.00,0.00,NULL,NULL
+CNR6259704301,Success,"Prime Sedan",Jayanagar,"HSR Layout",Cash,No,366.00,28.00,3.80,3.20
+CNR4588889454,"Driver Not Found","Prime SUV","Rajarajeshwari Nagar","Cox Town",null,Unknown,417.00,0.00,NULL,NULL
+CNR9102117353,Success,"Prime Plus","Cox Town","Magadi Road",UPI,No,2884.00,48.00,3.80,4.90
+CNR9855871509,"Canceled by Driver","Prime Sedan","RT Nagar","Mysore Road",null,Unknown,371.00,0.00,NULL,NULL
+CNR6491202733,Success,Mini,"Magadi Road","Cox Town",UPI,No,175.00,2.00,3.40,3.30
+CNR1767970743,Success,Bike,Peenya,"Rajarajeshwari Nagar",UPI,No,494.00,28.00,3.10,3.80
+CNR6136026561,Success,eBike,"HSR Layout",Bellandur,UPI,No,441.00,27.00,3.10,3.10
+CNR7642653871,Success,"Prime Sedan",Banashankari,"Sarjapur Road",Cash,No,471.00,23.00,4.40,4.60
+CNR8369636566,Success,"Prime Plus",Indiranagar,Yelahanka,Cash,No,389.00,14.00,3.20,4.60
+CNR8073437118,"Canceled by Driver",eBike,Hennur,"Langford Town",null,Unknown,202.00,0.00,NULL,NULL
+CNR5116585243,"Canceled by Driver",Auto,"Tumkur Road",Ulsoor,null,Unknown,253.00,0.00,NULL,NULL
+CNR9699923253,Success,"Prime SUV",Indiranagar,Basavanagudi,Cash,No,882.00,43.00,3.20,4.10
+CNR1201589640,"Canceled by Customer","Prime Sedan",Banashankari,"Cox Town",null,Unknown,176.00,0.00,NULL,NULL
+CNR1689403754,Success,Mini,Devanahalli,"Hosur Road",UPI,No,417.00,24.00,4.20,3.80
+CNR1501229480,Success,Mini,Banashankari,"Richmond Town","Credit Card",No,130.00,41.00,3.50,4.50
+CNR8602417067,Success,"Prime SUV","Cox Town",Basavanagudi,UPI,No,235.00,17.00,3.70,3.70
+CNR5180944150,Success,"Prime Sedan","Magadi Road","Bannerghatta Road","Credit Card",No,325.00,21.00,4.70,5.00
+CNR5569548787,Success,"Prime Plus",Banashankari,Shivajinagar,UPI,No,290.00,22.00,4.80,4.40
+CNR2826030097,Success,Bike,Koramangala,"Mysore Road",Cash,No,131.00,20.00,4.40,3.10
+CNR4887495881,"Canceled by Customer","Prime SUV",Chamarajpet,"Ramamurthy Nagar",null,Unknown,148.00,0.00,NULL,NULL
+CNR4946474476,"Canceled by Customer",Bike,Chamarajpet,"BTM Layout",null,Unknown,463.00,0.00,NULL,NULL
+CNR5414099759,Success,"Prime Sedan",Rajajinagar,"Ramamurthy Nagar",UPI,No,339.00,17.00,3.10,3.40
+CNR2568139914,"Driver Not Found","Prime SUV",Whitefield,"RT Nagar",null,Unknown,314.00,0.00,NULL,NULL
+CNR8892975500,Success,Bike,"Rajarajeshwari Nagar","Sahakar Nagar",Cash,No,512.00,48.00,3.10,4.20
+CNR7552726236,"Driver Not Found","Prime Plus","Magadi Road",Chickpet,null,Unknown,443.00,0.00,NULL,NULL
+CNR1200026621,Success,"Prime SUV",Chickpet,"Tumkur Road",UPI,No,1467.00,32.00,4.70,3.50
+CNR4187447284,"Driver Not Found","Prime SUV","Ramamurthy Nagar","RT Nagar",null,Unknown,353.00,0.00,NULL,NULL
+CNR3659491874,Success,Auto,"KR Puram","Bannerghatta Road",UPI,No,444.00,1.00,3.80,4.10
+CNR3623533429,Success,"Prime Plus",Basavanagudi,Yeshwanthpur,UPI,No,476.00,23.00,3.10,4.90
+CNR3824632577,"Canceled by Driver",Bike,"Sahakar Nagar",Koramangala,null,Unknown,142.00,0.00,NULL,NULL
+CNR2817233926,Success,eBike,Kengeri,Koramangala,UPI,No,471.00,26.00,4.90,3.80
+CNR2091398962,Success,eBike,"Bannerghatta Road",Indiranagar,Cash,No,382.00,21.00,3.60,4.20
+CNR5220085842,"Canceled by Driver","Prime Sedan",Rajajinagar,Bellandur,null,Unknown,401.00,0.00,NULL,NULL
+CNR9795770576,Success,Auto,Yelahanka,Basavanagudi,Cash,No,148.00,18.00,3.10,4.10
+CNR4627809411,Success,Auto,Shivajinagar,"Electronic City",UPI,No,204.00,11.00,4.80,3.40
+CNR4003939102,Success,Mini,Varthur,"Tumkur Road",Cash,No,666.00,9.00,4.50,3.00
+CNR1308261538,Success,eBike,"Richmond Town","Rajarajeshwari Nagar",UPI,No,425.00,5.00,4.80,4.40
+CNR1556710084,Success,"Prime Sedan","RT Nagar","JP Nagar",Cash,No,172.00,41.00,3.10,4.20
+CNR4639016703,Success,"Prime Plus","Langford Town",Nagarbhavi,Cash,No,398.00,35.00,4.90,3.50
+booking_ID,booking_Status,vehicle_Type,pickup_Location,drop_Location,payment_Method,Unknown,NULL,NULL,NULL,NULL
+CNR7153255142,"Canceled by Driver","Prime Sedan","Tumkur Road","RT Nagar",null,Unknown,406.06,12.64,NULL,NULL
+CNR2940424040,Success,Bike,"Magadi Road",Varthur,Cash,No,405.02,12.63,4.30,5.60
+CNR2982357879,Success,"Prime SUV","Sahakar Nagar",Varthur,UPI,No,403.98,12.61,4.40,6.40
+CNR2395710036,"Canceled by Customer",eBike,"HSR Layout",Vijayanagar,null,Unknown,402.94,12.60,NULL,NULL
+CNR1797421769,Success,Mini,Rajajinagar,Chamarajpet,"Credit Card",No,401.90,12.58,2.73,5.53
+CNR8787177882,Success,Mini,Kadugodi,Vijayanagar,UPI,No,400.86,12.57,2.33,6.28
+CNR3612067561,Success,Bike,"Tumkur Road",Whitefield,Cash,No,399.82,12.55,1.93,7.03
+CNR5374902489,"Canceled by Driver","Prime Plus","Bannerghatta Road","Sarjapur Road",null,Unknown,398.78,12.54,NULL,NULL
+CNR5030602354,"Driver Not Found",Mini,Chamarajpet,Peenya,null,Unknown,397.74,12.52,NULL,NULL
+CNR6328453219,"Canceled by Driver",Auto,"RT Nagar",Varthur,null,Unknown,396.70,12.51,NULL,NULL
+CNR4787583516,Success,"Prime Plus","Hosur Road",Jayanagar,Cash,No,395.66,12.49,2.30,5.60
+CNR7943634301,Success,"Prime Plus",Kammanahalli,Rajajinagar,Cash,No,394.62,12.48,1.55,6.30
+CNR4524472111,Success,Auto,"Cox Town",Yelahanka,UPI,No,393.58,12.46,0.80,7.00
+CNR3914552213,"Canceled by Driver",Auto,"Hosur Road",Banashankari,null,Unknown,392.54,12.45,NULL,NULL
+CNR8181602032,Success,Bike,Indiranagar,"MG Road",UPI,No,391.50,12.43,2.60,3.10
+CNR8090918544,Success,Bike,"Magadi Road","HSR Layout",UPI,No,390.46,12.42,1.50,2.60
+CNR3180978010,"Driver Not Found",Mini,"Ramamurthy Nagar","BTM Layout",null,Unknown,389.42,12.41,NULL,NULL
+CNR3165799370,Success,Bike,"Electronic City","Langford Town",Cash,No,388.38,12.39,4.23,3.70
+CNR9975925287,Success,"Prime SUV","Magadi Road","RT Nagar",UPI,No,387.34,12.38,4.40,3.62
+CNR1414582419,Success,eBike,Koramangala,"Sarjapur Road",Cash,No,386.30,12.36,4.57,3.54
+CNR3473800561,Success,eBike,Basavanagudi,Hulimavu,Cash,No,385.26,12.35,4.74,3.46
+CNR6013805089,Success,"Prime Sedan",Padmanabhanagar,Jayanagar,Cash,No,384.22,12.33,4.91,3.38
+CNR4306636052,"Canceled by Driver","Prime SUV","Mysore Road",Vijayanagar,null,Unknown,383.18,12.32,NULL,NULL
+CNR9832070187,Success,Bike,Koramangala,"BTM Layout",Cash,No,382.14,12.30,3.52,4.58
+CNR5620539253,Success,"Prime Plus","Mysore Road","Sahakar Nagar",Cash,No,381.10,12.29,3.33,4.86
+CNR4443921904,Success,Mini,"Tumkur Road",Koramangala,UPI,No,380.06,12.27,3.13,5.14
+CNR7194303296,Success,Mini,"Mysore Road",Hennur,UPI,No,379.02,12.26,2.94,5.42
+CNR6494005067,Success,Auto,Yelahanka,Malleshwaram,UPI,No,377.98,12.24,2.74,5.70
+CNR6805579107,Success,"Prime SUV",Indiranagar,Indiranagar,Cash,No,376.94,12.23,2.55,5.98
+CNR6003663433,"Canceled by Customer","Prime Plus",Rajajinagar,Chamarajpet,null,Unknown,375.90,12.21,NULL,NULL
+CNR2998177391,"Driver Not Found",Auto,"RT Nagar",Yelahanka,null,Unknown,374.85,12.20,NULL,NULL
+CNR7979458138,Success,eBike,"Frazer Town",Indiranagar,Cash,No,373.81,12.18,4.80,4.70
+CNR7286474506,"Canceled by Customer",eBike,Jayanagar,"Richmond Town",null,Unknown,372.77,12.17,NULL,NULL
+CNR9820692957,Success,"Prime Sedan",Koramangala,"Hosur Road",Cash,No,371.73,12.16,5.30,2.83
+CNR4094067440,Success,"Prime Sedan",Majestic,Jayanagar,Cash,No,370.69,12.14,5.95,2.63
+CNR7142279862,Success,eBike,Yeshwanthpur,"JP Nagar",UPI,No,369.65,12.13,6.60,2.43
+CNR5488574120,"Canceled by Driver",Auto,Peenya,"Hosur Road",null,Unknown,368.61,12.11,NULL,NULL
+CNR8148468821,"Canceled by Driver","Prime Plus",Marathahalli,"BTM Layout",null,Unknown,367.57,12.10,NULL,NULL
+CNR5176704322,Success,"Prime Plus","KR Puram",Hennur,UPI,Yes,366.53,12.08,3.10,3.50
+CNR9287248724,"Canceled by Driver","Prime SUV","Hosur Road",Yeshwanthpur,null,Unknown,365.49,12.07,NULL,NULL
+CNR7547352327,Success,"Prime Plus",Hulimavu,"Rajarajeshwari Nagar",UPI,No,364.45,12.05,3.80,4.90
+CNR9660405769,"Canceled by Driver",eBike,"Electronic City",Varthur,null,Unknown,363.41,12.04,NULL,NULL
+CNR4251304471,Success,"Prime SUV",Shivajinagar,Jayanagar,Cash,No,362.37,12.02,3.90,4.85
+CNR1568684278,Success,"Prime Plus","Bannerghatta Road",Majestic,UPI,No,361.33,12.01,3.72,5.20
+CNR2230045814,Success,"Prime SUV","Cox Town",Chamarajpet,Cash,No,360.29,11.99,3.54,5.55
+CNR7871058089,Success,Mini,Hennur,Kengeri,Cash,No,359.25,11.98,3.36,5.90
+CNR5503358927,"Driver Not Found",Bike,Peenya,"MG Road",null,Unknown,358.21,11.96,NULL,NULL
+CNR542051657,Success,"Prime Plus",Devanahalli,Rajajinagar,Cash,No,357.17,11.95,3.99,4.84
+CNR3753950974,Success,eBike,"Ramamurthy Nagar","Sahakar Nagar",Cash,No,356.13,11.93,4.01,5.02
+CNR9312632867,Success,"Prime SUV","Tumkur Road","Mysore Road",Cash,Yes,355.09,11.92,4.03,5.21
+CNR5274603340,Success,"Prime SUV","Electronic City",Banashankari,Cash,No,354.05,11.91,4.05,5.39
+CNR1050003752,Success,Bike,Chamarajpet,Shivajinagar,UPI,No,353.01,11.89,4.07,5.57
+CNR3603517873,Success,eBike,"Rajarajeshwari Nagar",Marathahalli,Cash,No,351.97,11.88,4.09,5.75
+CNR1557960488,"Driver Not Found","Prime SUV","Rajarajeshwari Nagar",Varthur,null,Unknown,350.93,11.86,NULL,NULL
+CNR9758857830,Success,"Prime Plus","HSR Layout","Magadi Road",UPI,No,349.89,11.85,6.50,5.10
+CNR8080410192,Success,eBike,Jayanagar,"JP Nagar",UPI,No,348.85,11.83,8.00,5.80
+CNR3218794350,"Canceled by Driver",Bike,Hennur,Padmanabhanagar,null,Unknown,347.81,11.82,NULL,NULL
+CNR290869242,Success,Mini,Hennur,Chamarajpet,Cash,No,346.77,11.80,4.75,3.30
+CNR7825941026,Success,Mini,Marathahalli,"Langford Town",UPI,No,345.73,11.79,4.94,2.95
+CNR9148580255,Success,"Prime SUV","Tumkur Road","Magadi Road",UPI,No,344.69,11.77,5.13,2.60
+CNR2946309760,Success,"Prime Plus","Hosur Road",Hennur,Cash,No,343.65,11.76,5.32,2.25
+CNR3472489570,"Driver Not Found","Prime SUV","Electronic City",Marathahalli,null,Unknown,342.61,11.74,NULL,NULL
+CNR1768885472,"Canceled by Driver","Prime SUV",Basavanagudi,Padmanabhanagar,null,Unknown,341.57,11.73,NULL,NULL
+CNR7486448495,Success,Auto,Ulsoor,Padmanabhanagar,UPI,No,340.53,11.71,4.00,4.30
+CNR2735636505,"Driver Not Found","Prime SUV","Cox Town",Chamarajpet,null,Unknown,339.49,11.70,NULL,NULL
+CNR7533317866,"Canceled by Customer",Mini,Shantinagar,Hulimavu,null,Unknown,338.45,11.69,NULL,NULL
+CNR5758479139,Success,"Prime Sedan","RT Nagar",Chickpet,Cash,No,337.41,11.67,4.50,4.67
+CNR8021985469,Success,Mini,"Hosur Road",Kadugodi,Cash,No,336.36,11.66,4.62,4.88
+CNR3800597073,Success,Mini,"JP Nagar",Chickpet,Cash,No,335.32,11.64,4.74,5.09
+CNR6179425512,Success,Mini,"Bannerghatta Road",Basavanagudi,Cash,No,334.28,11.63,4.86,5.30
+CNR7924302885,Success,Auto,"Magadi Road",Nagarbhavi,UPI,Yes,333.24,11.61,4.98,5.51
+CNR7181374756,"Canceled by Driver",Auto,Devanahalli,Kammanahalli,null,Unknown,332.20,11.60,NULL,NULL
+CNR2830899441,Success,Mini,Kadugodi,"Frazer Town",UPI,No,331.16,11.58,4.30,3.40
+CNR7592165192,"Canceled by Driver","Prime SUV","Rajarajeshwari Nagar","HSR Layout",null,Unknown,330.12,11.57,NULL,NULL
+CNR6077524333,"Canceled by Driver","Prime SUV",Chickpet,Shantinagar,null,Unknown,329.08,11.55,NULL,NULL
+CNR8854206454,Success,eBike,"Langford Town",Kadugodi,Cash,No,328.04,11.54,3.30,4.30
+CNR6387231274,"Driver Not Found","Prime Sedan","Bannerghatta Road",Indiranagar,null,Unknown,327.00,11.52,NULL,NULL
+CNR6215530366,Success,eBike,Devanahalli,Jayanagar,Cash,No,325.96,11.51,4.27,4.57
+CNR4314026109,Success,"Prime SUV","Tumkur Road","Bannerghatta Road",Cash,No,324.92,11.49,4.22,4.52
+CNR9027465661,Success,"Prime Sedan","BTM Layout",Majestic,UPI,No,323.88,11.48,4.17,4.47
+CNR5003494701,"Canceled by Driver",Mini,"Sarjapur Road",Majestic,null,Unknown,322.84,11.46,NULL,NULL
+CNR2233399649,Success,Bike,Peenya,Devanahalli,Cash,No,321.80,11.45,4.99,4.09
+CNR2317770063,Success,Auto,Chickpet,Hennur,UPI,No,320.76,11.44,5.28,4.02
+CNR9704400677,Success,Mini,"Langford Town",Vijayanagar,Cash,No,319.72,11.42,5.57,3.95
+CNR8836460204,Success,eBike,Bellandur,Shantinagar,UPI,No,318.68,11.41,5.86,3.88
+CNR3697318610,Success,Bike,"Sarjapur Road",Chickpet,UPI,No,317.64,11.39,6.15,3.81
+CNR6541289543,"Canceled by Driver","Prime SUV","Frazer Town",Whitefield,null,Unknown,316.60,11.38,NULL,NULL
+CNR8369601219,"Canceled by Driver","Prime SUV","Richmond Town",Jayanagar,null,Unknown,315.56,11.36,NULL,NULL
+CNR8346388703,"Canceled by Driver",Mini,"Magadi Road","BTM Layout",null,Unknown,314.52,11.35,NULL,NULL
+CNR4445082348,Success,Mini,Yelahanka,"BTM Layout",UPI,No,313.48,11.33,4.00,6.10
+CNR5528764313,Success,"Prime SUV","Ramamurthy Nagar","Bannerghatta Road",UPI,No,312.44,11.32,4.20,7.60
+CNR3967141569,"Canceled by Driver",Auto,Padmanabhanagar,"Ramamurthy Nagar",null,Unknown,311.40,11.30,NULL,NULL
+CNR7054352438,"Driver Not Found",Mini,Hennur,"Cox Town",null,Unknown,310.36,11.29,NULL,NULL
+CNR1640228588,Success,"Prime Sedan",Kengeri,"Mysore Road",Cash,Yes,309.32,11.27,2.63,4.70
+CNR6684033796,Success,Auto,Indiranagar,Whitefield,Cash,No,308.28,11.26,1.93,4.80
+CNR4158584923,Success,Auto,"Sahakar Nagar","Ramamurthy Nagar",UPI,No,307.24,11.24,1.23,4.90
+CNR5133236273,"Canceled by Driver","Prime Plus",Banashankari,Chickpet,null,Unknown,306.20,11.23,NULL,NULL
+CNR5661490576,Success,Bike,"Magadi Road","Electronic City",Cash,No,305.16,11.21,3.50,2.80
+CNR2304446757,Success,eBike,"Rajarajeshwari Nagar","MG Road",Cash,No,304.12,11.20,2.90,2.50
+CNR3780555542,"Canceled by Customer",Mini,"Tumkur Road",Chamarajpet,null,Unknown,303.08,11.19,NULL,NULL
+CNR1559782157,Success,Auto,Ulsoor,Bellandur,Cash,No,302.04,11.17,3.74,4.62
+CNR7623690602,Success,Bike,"Cox Town",Malleshwaram,UPI,Yes,301.00,11.16,3.86,4.94
+CNR2098165199,Success,"Prime Sedan",Yelahanka,"Ramamurthy Nagar",UPI,No,299.96,11.14,3.98,5.26
+CNR5502012579,Success,Mini,Vijayanagar,Kengeri,Cash,No,298.92,11.13,4.10,5.58
+CNR4698965967,Success,"Prime Sedan","Ramamurthy Nagar",Chickpet,Cash,No,297.87,11.11,4.22,5.90
+CNR8566688320,"Driver Not Found",Bike,Chickpet,Shivajinagar,null,Unknown,296.83,11.10,NULL,NULL
+CNR8014852782,"Canceled by Customer","Prime Plus",Kammanahalli,"Magadi Road",null,Unknown,295.79,11.08,NULL,NULL
+CNR6012739836,"Driver Not Found","Prime Sedan","Ramamurthy Nagar","Magadi Road",null,Unknown,294.75,11.07,NULL,NULL
+CNR3404012928,Success,Mini,Chickpet,Chamarajpet,Cash,No,293.71,11.05,1.90,2.60
+CNR9282027845,Success,Bike,Yeshwanthpur,"KR Puram",UPI,No,292.67,11.04,0.70,1.40
+CNR5508853708,"Canceled by Customer","Prime Plus",Shivajinagar,"HSR Layout",null,Unknown,291.63,11.02,NULL,NULL
+CNR4241139230,Success,"Prime Plus",Kammanahalli,Shivajinagar,Cash,No,290.59,11.01,4.70,4.10
+CNR8306274838,"Driver Not Found",Bike,Bellandur,"Rajarajeshwari Nagar",null,Unknown,289.55,10.99,NULL,NULL
+CNR1802047240,"Canceled by Customer",eBike,"Mysore Road",Vijayanagar,null,Unknown,288.51,10.98,NULL,NULL
+CNR1751145603,"Canceled by Driver","Prime Sedan",Yelahanka,Majestic,null,Unknown,287.47,10.96,NULL,NULL
+CNR5744401218,Success,Bike,Yelahanka,Varthur,UPI,No,286.43,10.95,3.20,5.90
+CNR7221640450,Success,"Prime Sedan","RT Nagar",Whitefield,UPI,No,285.39,10.94,3.10,7.30
+CNR8395803905,"Canceled by Driver",eBike,"Bannerghatta Road","RT Nagar",null,Unknown,284.35,10.92,NULL,NULL
+CNR1987976910,Success,"Prime SUV","Mysore Road",Peenya,Cash,No,283.31,10.91,3.33,2.83
+CNR1106789678,Success,"Prime SUV","BTM Layout",Malleshwaram,Cash,No,282.27,10.89,2.98,2.28
+CNR8303547069,Success,Mini,"Langford Town","Richmond Town","Credit Card",No,281.23,10.88,2.63,1.73
+CNR7368110421,"Canceled by Driver",Mini,Peenya,"Sarjapur Road",null,Unknown,280.19,10.86,NULL,NULL
+CNR7500310853,Success,"Prime Sedan",Jayanagar,"Richmond Town",UPI,No,279.15,10.85,3.97,4.77
+CNR8925319975,Success,"Prime Sedan",Yelahanka,Rajajinagar,UPI,No,278.11,10.83,4.07,5.07
+CNR9261561390,Success,Auto,Koramangala,Majestic,Cash,No,277.07,10.82,4.17,5.37
+CNR3165383120,"Canceled by Driver","Prime SUV",Devanahalli,"KR Puram",null,Unknown,276.03,10.80,NULL,NULL
+CNR7006798592,"Driver Not Found","Prime Sedan",Ulsoor,"RT Nagar",null,Unknown,274.99,10.79,NULL,NULL
+CNR5613886410,Success,Auto,Marathahalli,"KR Puram",UPI,No,273.95,10.77,2.40,3.10
+CNR5841521780,Success,"Prime SUV","Ramamurthy Nagar",Varthur,Cash,No,272.91,10.76,1.70,2.60
+CNR343071783,"Canceled by Customer",Mini,Malleshwaram,"Magadi Road",null,Unknown,271.87,10.74,NULL,NULL
+CNR2021130566,Success,Bike,"Hosur Road","Richmond Town",Cash,No,270.83,10.73,4.40,4.50
+CNR6765124275,Success,"Prime Sedan",Chamarajpet,Banashankari,Cash,No,269.79,10.72,4.55,4.95
+CNR9762994658,Success,"Prime Plus","RT Nagar","Sahakar Nagar",UPI,No,268.75,10.70,4.70,5.40
+CNR8072285783,"Canceled by Customer","Prime Plus","Frazer Town","Sarjapur Road",null,Unknown,267.71,10.69,NULL,NULL
+CNR8116331340,Success,Auto,"RT Nagar","Sarjapur Road",UPI,No,266.67,10.67,5.10,3.95
+CNR3491700602,Success,Mini,"Richmond Town","Langford Town",UPI,No,265.63,10.66,5.46,3.77
+CNR2166456022,Success,Mini,Yeshwanthpur,Indiranagar,Cash,No,264.59,10.64,5.82,3.59
+CNR2177201692,Success,Mini,"Richmond Town",Yeshwanthpur,Cash,No,263.55,10.63,6.18,3.41
+CNR5755482161,"Canceled by Driver","Prime SUV",Koramangala,Indiranagar,null,Unknown,262.51,10.61,NULL,NULL
+CNR4484571820,Success,Auto,"HSR Layout","Hosur Road",Cash,No,261.47,10.60,2.60,3.40
+CNR7377461832,Success,eBike,Ulsoor,Padmanabhanagar,Cash,No,260.43,10.58,1.70,3.30
+CNR3590493555,"Driver Not Found","Prime Plus","Electronic City","KR Puram",null,Unknown,259.38,10.57,NULL,NULL
+CNR4204184674,Success,"Prime SUV","Tumkur Road","Cox Town",UPI,No,258.34,10.55,3.40,4.90
+CNR8474873609,"Canceled by Customer","Prime Plus","HSR Layout","KR Puram",null,Unknown,257.30,10.54,NULL,NULL
+CNR1945536910,Success,Auto,"Sahakar Nagar","JP Nagar",Cash,No,256.26,10.52,4.20,4.40
+CNR8097291227,Success,"Prime Plus","Mysore Road",Rajajinagar,UPI,No,255.22,10.51,4.46,4.71
+CNR1433815647,Success,"Prime SUV",Banashankari,Marathahalli,Cash,No,254.18,10.49,4.72,5.02
+CNR5876056264,Success,"Prime SUV",Kadugodi,Shantinagar,UPI,No,253.14,10.48,4.98,5.33
+CNR2943788516,"Canceled by Driver",Bike,Shantinagar,"Ramamurthy Nagar",null,Unknown,252.10,10.47,NULL,NULL
+CNR5599931622,Success,"Prime SUV",Peenya,"Frazer Town",Cash,No,251.06,10.45,4.61,4.17
+booking_ID,booking_Status,vehicle_Type,pickup_Location,drop_Location,payment_Method,Unknown,NULL,NULL,NULL,NULL
+CNR7153255142,"Canceled by Driver","Prime Sedan","Tumkur Road","RT Nagar",null,Unknown,406.06,12.64,NULL,NULL
+CNR2940424040,Success,Bike,"Magadi Road",Varthur,Cash,No,405.02,12.63,4.30,5.60
+CNR2982357879,Success,"Prime SUV","Sahakar Nagar",Varthur,UPI,No,403.98,12.61,4.40,6.40
+CNR2395710036,"Canceled by Customer",eBike,"HSR Layout",Vijayanagar,null,Unknown,402.94,12.60,NULL,NULL
+CNR1797421769,Success,Mini,Rajajinagar,Chamarajpet,"Credit Card",No,401.90,12.58,2.73,5.53
+CNR8787177882,Success,Mini,Kadugodi,Vijayanagar,UPI,No,400.86,12.57,2.33,6.28
+CNR3612067561,Success,Bike,"Tumkur Road",Whitefield,Cash,No,399.82,12.55,1.93,7.03
+CNR5374902489,"Canceled by Driver","Prime Plus","Bannerghatta Road","Sarjapur Road",null,Unknown,398.78,12.54,NULL,NULL
+CNR5030602354,"Driver Not Found",Mini,Chamarajpet,Peenya,null,Unknown,397.74,12.52,NULL,NULL
+CNR6328453219,"Canceled by Driver",Auto,"RT Nagar",Varthur,null,Unknown,396.70,12.51,NULL,NULL
+CNR4787583516,Success,"Prime Plus","Hosur Road",Jayanagar,Cash,No,395.66,12.49,2.30,5.60
+CNR7943634301,Success,"Prime Plus",Kammanahalli,Rajajinagar,Cash,No,394.62,12.48,1.55,6.30
+CNR4524472111,Success,Auto,"Cox Town",Yelahanka,UPI,No,393.58,12.46,0.80,7.00
+CNR3914552213,"Canceled by Driver",Auto,"Hosur Road",Banashankari,null,Unknown,392.54,12.45,NULL,NULL
+CNR8181602032,Success,Bike,Indiranagar,"MG Road",UPI,No,391.50,12.43,2.60,3.10
+CNR8090918544,Success,Bike,"Magadi Road","HSR Layout",UPI,No,390.46,12.42,1.50,2.60
+CNR3180978010,"Driver Not Found",Mini,"Ramamurthy Nagar","BTM Layout",null,Unknown,389.42,12.41,NULL,NULL
+CNR3165799370,Success,Bike,"Electronic City","Langford Town",Cash,No,388.38,12.39,4.23,3.70
+CNR9975925287,Success,"Prime SUV","Magadi Road","RT Nagar",UPI,No,387.34,12.38,4.40,3.62
+CNR1414582419,Success,eBike,Koramangala,"Sarjapur Road",Cash,No,386.30,12.36,4.57,3.54
+CNR3473800561,Success,eBike,Basavanagudi,Hulimavu,Cash,No,385.26,12.35,4.74,3.46
+CNR6013805089,Success,"Prime Sedan",Padmanabhanagar,Jayanagar,Cash,No,384.22,12.33,4.91,3.38
+CNR4306636052,"Canceled by Driver","Prime SUV","Mysore Road",Vijayanagar,null,Unknown,383.18,12.32,NULL,NULL
+CNR9832070187,Success,Bike,Koramangala,"BTM Layout",Cash,No,382.14,12.30,3.52,4.58
+CNR5620539253,Success,"Prime Plus","Mysore Road","Sahakar Nagar",Cash,No,381.10,12.29,3.33,4.86
+CNR4443921904,Success,Mini,"Tumkur Road",Koramangala,UPI,No,380.06,12.27,3.13,5.14
+CNR7194303296,Success,Mini,"Mysore Road",Hennur,UPI,No,379.02,12.26,2.94,5.42
+CNR6494005067,Success,Auto,Yelahanka,Malleshwaram,UPI,No,377.98,12.24,2.74,5.70
+CNR6805579107,Success,"Prime SUV",Indiranagar,Indiranagar,Cash,No,376.94,12.23,2.55,5.98
+CNR6003663433,"Canceled by Customer","Prime Plus",Rajajinagar,Chamarajpet,null,Unknown,375.90,12.21,NULL,NULL
+CNR2998177391,"Driver Not Found",Auto,"RT Nagar",Yelahanka,null,Unknown,374.85,12.20,NULL,NULL
+CNR7979458138,Success,eBike,"Frazer Town",Indiranagar,Cash,No,373.81,12.18,4.80,4.70
+CNR7286474506,"Canceled by Customer",eBike,Jayanagar,"Richmond Town",null,Unknown,372.77,12.17,NULL,NULL
+CNR9820692957,Success,"Prime Sedan",Koramangala,"Hosur Road",Cash,No,371.73,12.16,5.30,2.83
+CNR4094067440,Success,"Prime Sedan",Majestic,Jayanagar,Cash,No,370.69,12.14,5.95,2.63
+CNR7142279862,Success,eBike,Yeshwanthpur,"JP Nagar",UPI,No,369.65,12.13,6.60,2.43
+CNR5488574120,"Canceled by Driver",Auto,Peenya,"Hosur Road",null,Unknown,368.61,12.11,NULL,NULL
+CNR8148468821,"Canceled by Driver","Prime Plus",Marathahalli,"BTM Layout",null,Unknown,367.57,12.10,NULL,NULL
+CNR5176704322,Success,"Prime Plus","KR Puram",Hennur,UPI,Yes,366.53,12.08,3.10,3.50
+CNR9287248724,"Canceled by Driver","Prime SUV","Hosur Road",Yeshwanthpur,null,Unknown,365.49,12.07,NULL,NULL
+CNR7547352327,Success,"Prime Plus",Hulimavu,"Rajarajeshwari Nagar",UPI,No,364.45,12.05,3.80,4.90
+CNR9660405769,"Canceled by Driver",eBike,"Electronic City",Varthur,null,Unknown,363.41,12.04,NULL,NULL
+CNR4251304471,Success,"Prime SUV",Shivajinagar,Jayanagar,Cash,No,362.37,12.02,3.90,4.85
+CNR1568684278,Success,"Prime Plus","Bannerghatta Road",Majestic,UPI,No,361.33,12.01,3.72,5.20
+CNR2230045814,Success,"Prime SUV","Cox Town",Chamarajpet,Cash,No,360.29,11.99,3.54,5.55
+CNR7871058089,Success,Mini,Hennur,Kengeri,Cash,No,359.25,11.98,3.36,5.90
+CNR5503358927,"Driver Not Found",Bike,Peenya,"MG Road",null,Unknown,358.21,11.96,NULL,NULL
+CNR542051657,Success,"Prime Plus",Devanahalli,Rajajinagar,Cash,No,357.17,11.95,3.99,4.84
+CNR3753950974,Success,eBike,"Ramamurthy Nagar","Sahakar Nagar",Cash,No,356.13,11.93,4.01,5.02
+CNR9312632867,Success,"Prime SUV","Tumkur Road","Mysore Road",Cash,Yes,355.09,11.92,4.03,5.21
+CNR5274603340,Success,"Prime SUV","Electronic City",Banashankari,Cash,No,354.05,11.91,4.05,5.39
+CNR1050003752,Success,Bike,Chamarajpet,Shivajinagar,UPI,No,353.01,11.89,4.07,5.57
+CNR3603517873,Success,eBike,"Rajarajeshwari Nagar",Marathahalli,Cash,No,351.97,11.88,4.09,5.75
+CNR1557960488,"Driver Not Found","Prime SUV","Rajarajeshwari Nagar",Varthur,null,Unknown,350.93,11.86,NULL,NULL
+CNR9758857830,Success,"Prime Plus","HSR Layout","Magadi Road",UPI,No,349.89,11.85,6.50,5.10
+CNR8080410192,Success,eBike,Jayanagar,"JP Nagar",UPI,No,348.85,11.83,8.00,5.80
+CNR3218794350,"Canceled by Driver",Bike,Hennur,Padmanabhanagar,null,Unknown,347.81,11.82,NULL,NULL
+CNR290869242,Success,Mini,Hennur,Chamarajpet,Cash,No,346.77,11.80,4.75,3.30
+CNR7825941026,Success,Mini,Marathahalli,"Langford Town",UPI,No,345.73,11.79,4.94,2.95
+CNR9148580255,Success,"Prime SUV","Tumkur Road","Magadi Road",UPI,No,344.69,11.77,5.13,2.60
+CNR2946309760,Success,"Prime Plus","Hosur Road",Hennur,Cash,No,343.65,11.76,5.32,2.25
+CNR3472489570,"Driver Not Found","Prime SUV","Electronic City",Marathahalli,null,Unknown,342.61,11.74,NULL,NULL
+CNR1768885472,"Canceled by Driver","Prime SUV",Basavanagudi,Padmanabhanagar,null,Unknown,341.57,11.73,NULL,NULL
+CNR7486448495,Success,Auto,Ulsoor,Padmanabhanagar,UPI,No,340.53,11.71,4.00,4.30
+CNR2735636505,"Driver Not Found","Prime SUV","Cox Town",Chamarajpet,null,Unknown,339.49,11.70,NULL,NULL
+CNR7533317866,"Canceled by Customer",Mini,Shantinagar,Hulimavu,null,Unknown,338.45,11.69,NULL,NULL
+CNR5758479139,Success,"Prime Sedan","RT Nagar",Chickpet,Cash,No,337.41,11.67,4.50,4.67
+CNR8021985469,Success,Mini,"Hosur Road",Kadugodi,Cash,No,336.36,11.66,4.62,4.88
+CNR3800597073,Success,Mini,"JP Nagar",Chickpet,Cash,No,335.32,11.64,4.74,5.09
+CNR6179425512,Success,Mini,"Bannerghatta Road",Basavanagudi,Cash,No,334.28,11.63,4.86,5.30
+CNR7924302885,Success,Auto,"Magadi Road",Nagarbhavi,UPI,Yes,333.24,11.61,4.98,5.51
+CNR7181374756,"Canceled by Driver",Auto,Devanahalli,Kammanahalli,null,Unknown,332.20,11.60,NULL,NULL
+CNR2830899441,Success,Mini,Kadugodi,"Frazer Town",UPI,No,331.16,11.58,4.30,3.40
+CNR7592165192,"Canceled by Driver","Prime SUV","Rajarajeshwari Nagar","HSR Layout",null,Unknown,330.12,11.57,NULL,NULL
+CNR6077524333,"Canceled by Driver","Prime SUV",Chickpet,Shantinagar,null,Unknown,329.08,11.55,NULL,NULL
+CNR8854206454,Success,eBike,"Langford Town",Kadugodi,Cash,No,328.04,11.54,3.30,4.30
+CNR6387231274,"Driver Not Found","Prime Sedan","Bannerghatta Road",Indiranagar,null,Unknown,327.00,11.52,NULL,NULL
+CNR6215530366,Success,eBike,Devanahalli,Jayanagar,Cash,No,325.96,11.51,4.27,4.57
+CNR4314026109,Success,"Prime SUV","Tumkur Road","Bannerghatta Road",Cash,No,324.92,11.49,4.22,4.52
+CNR9027465661,Success,"Prime Sedan","BTM Layout",Majestic,UPI,No,323.88,11.48,4.17,4.47
+CNR5003494701,"Canceled by Driver",Mini,"Sarjapur Road",Majestic,null,Unknown,322.84,11.46,NULL,NULL
+CNR2233399649,Success,Bike,Peenya,Devanahalli,Cash,No,321.80,11.45,4.99,4.09
+CNR2317770063,Success,Auto,Chickpet,Hennur,UPI,No,320.76,11.44,5.28,4.02
+CNR9704400677,Success,Mini,"Langford Town",Vijayanagar,Cash,No,319.72,11.42,5.57,3.95
+CNR8836460204,Success,eBike,Bellandur,Shantinagar,UPI,No,318.68,11.41,5.86,3.88
+CNR3697318610,Success,Bike,"Sarjapur Road",Chickpet,UPI,No,317.64,11.39,6.15,3.81
+CNR6541289543,"Canceled by Driver","Prime SUV","Frazer Town",Whitefield,null,Unknown,316.60,11.38,NULL,NULL
+CNR8369601219,"Canceled by Driver","Prime SUV","Richmond Town",Jayanagar,null,Unknown,315.56,11.36,NULL,NULL
+CNR8346388703,"Canceled by Driver",Mini,"Magadi Road","BTM Layout",null,Unknown,314.52,11.35,NULL,NULL
+CNR4445082348,Success,Mini,Yelahanka,"BTM Layout",UPI,No,313.48,11.33,4.00,6.10
+CNR5528764313,Success,"Prime SUV","Ramamurthy Nagar","Bannerghatta Road",UPI,No,312.44,11.32,4.20,7.60
+CNR3967141569,"Canceled by Driver",Auto,Padmanabhanagar,"Ramamurthy Nagar",null,Unknown,311.40,11.30,NULL,NULL
+CNR7054352438,"Driver Not Found",Mini,Hennur,"Cox Town",null,Unknown,310.36,11.29,NULL,NULL
+CNR1640228588,Success,"Prime Sedan",Kengeri,"Mysore Road",Cash,Yes,309.32,11.27,2.63,4.70
+CNR6684033796,Success,Auto,Indiranagar,Whitefield,Cash,No,308.28,11.26,1.93,4.80
+CNR4158584923,Success,Auto,"Sahakar Nagar","Ramamurthy Nagar",UPI,No,307.24,11.24,1.23,4.90
+CNR5133236273,"Canceled by Driver","Prime Plus",Banashankari,Chickpet,null,Unknown,306.20,11.23,NULL,NULL
+CNR5661490576,Success,Bike,"Magadi Road","Electronic City",Cash,No,305.16,11.21,3.50,2.80
+CNR2304446757,Success,eBike,"Rajarajeshwari Nagar","MG Road",Cash,No,304.12,11.20,2.90,2.50
+CNR3780555542,"Canceled by Customer",Mini,"Tumkur Road",Chamarajpet,null,Unknown,303.08,11.19,NULL,NULL
+CNR1559782157,Success,Auto,Ulsoor,Bellandur,Cash,No,302.04,11.17,3.74,4.62
+CNR7623690602,Success,Bike,"Cox Town",Malleshwaram,UPI,Yes,301.00,11.16,3.86,4.94
+CNR2098165199,Success,"Prime Sedan",Yelahanka,"Ramamurthy Nagar",UPI,No,299.96,11.14,3.98,5.26
+CNR5502012579,Success,Mini,Vijayanagar,Kengeri,Cash,No,298.92,11.13,4.10,5.58
+CNR4698965967,Success,"Prime Sedan","Ramamurthy Nagar",Chickpet,Cash,No,297.87,11.11,4.22,5.90
+CNR8566688320,"Driver Not Found",Bike,Chickpet,Shivajinagar,null,Unknown,296.83,11.10,NULL,NULL
+CNR8014852782,"Canceled by Customer","Prime Plus",Kammanahalli,"Magadi Road",null,Unknown,295.79,11.08,NULL,NULL
+CNR6012739836,"Driver Not Found","Prime Sedan","Ramamurthy Nagar","Magadi Road",null,Unknown,294.75,11.07,NULL,NULL
+CNR3404012928,Success,Mini,Chickpet,Chamarajpet,Cash,No,293.71,11.05,1.90,2.60
+CNR9282027845,Success,Bike,Yeshwanthpur,"KR Puram",UPI,No,292.67,11.04,0.70,1.40
+CNR5508853708,"Canceled by Customer","Prime Plus",Shivajinagar,"HSR Layout",null,Unknown,291.63,11.02,NULL,NULL
+CNR4241139230,Success,"Prime Plus",Kammanahalli,Shivajinagar,Cash,No,290.59,11.01,4.70,4.10
+CNR8306274838,"Driver Not Found",Bike,Bellandur,"Rajarajeshwari Nagar",null,Unknown,289.55,10.99,NULL,NULL
+CNR1802047240,"Canceled by Customer",eBike,"Mysore Road",Vijayanagar,null,Unknown,288.51,10.98,NULL,NULL
+CNR1751145603,"Canceled by Driver","Prime Sedan",Yelahanka,Majestic,null,Unknown,287.47,10.96,NULL,NULL
+CNR5744401218,Success,Bike,Yelahanka,Varthur,UPI,No,286.43,10.95,3.20,5.90
+CNR7221640450,Success,"Prime Sedan","RT Nagar",Whitefield,UPI,No,285.39,10.94,3.10,7.30
+CNR8395803905,"Canceled by Driver",eBike,"Bannerghatta Road","RT Nagar",null,Unknown,284.35,10.92,NULL,NULL
+CNR1987976910,Success,"Prime SUV","Mysore Road",Peenya,Cash,No,283.31,10.91,3.33,2.83
+CNR1106789678,Success,"Prime SUV","BTM Layout",Malleshwaram,Cash,No,282.27,10.89,2.98,2.28
+CNR8303547069,Success,Mini,"Langford Town","Richmond Town","Credit Card",No,281.23,10.88,2.63,1.73
+CNR7368110421,"Canceled by Driver",Mini,Peenya,"Sarjapur Road",null,Unknown,280.19,10.86,NULL,NULL
+CNR7500310853,Success,"Prime Sedan",Jayanagar,"Richmond Town",UPI,No,279.15,10.85,3.97,4.77
+CNR8925319975,Success,"Prime Sedan",Yelahanka,Rajajinagar,UPI,No,278.11,10.83,4.07,5.07
+CNR9261561390,Success,Auto,Koramangala,Majestic,Cash,No,277.07,10.82,4.17,5.37
+CNR3165383120,"Canceled by Driver","Prime SUV",Devanahalli,"KR Puram",null,Unknown,276.03,10.80,NULL,NULL
+CNR7006798592,"Driver Not Found","Prime Sedan",Ulsoor,"RT Nagar",null,Unknown,274.99,10.79,NULL,NULL
+CNR5613886410,Success,Auto,Marathahalli,"KR Puram",UPI,No,273.95,10.77,2.40,3.10
+CNR5841521780,Success,"Prime SUV","Ramamurthy Nagar",Varthur,Cash,No,272.91,10.76,1.70,2.60
+CNR343071783,"Canceled by Customer",Mini,Malleshwaram,"Magadi Road",null,Unknown,271.87,10.74,NULL,NULL
+CNR2021130566,Success,Bike,"Hosur Road","Richmond Town",Cash,No,270.83,10.73,4.40,4.50
+CNR6765124275,Success,"Prime Sedan",Chamarajpet,Banashankari,Cash,No,269.79,10.72,4.55,4.95
+CNR9762994658,Success,"Prime Plus","RT Nagar","Sahakar Nagar",UPI,No,268.75,10.70,4.70,5.40
+CNR8072285783,"Canceled by Customer","Prime Plus","Frazer Town","Sarjapur Road",null,Unknown,267.71,10.69,NULL,NULL
+CNR8116331340,Success,Auto,"RT Nagar","Sarjapur Road",UPI,No,266.67,10.67,5.10,3.95
+CNR3491700602,Success,Mini,"Richmond Town","Langford Town",UPI,No,265.63,10.66,5.46,3.77
+CNR2166456022,Success,Mini,Yeshwanthpur,Indiranagar,Cash,No,264.59,10.64,5.82,3.59
+CNR2177201692,Success,Mini,"Richmond Town",Yeshwanthpur,Cash,No,263.55,10.63,6.18,3.41
+CNR5755482161,"Canceled by Driver","Prime SUV",Koramangala,Indiranagar,null,Unknown,262.51,10.61,NULL,NULL
+CNR4484571820,Success,Auto,"HSR Layout","Hosur Road",Cash,No,261.47,10.60,2.60,3.40
+CNR7377461832,Success,eBike,Ulsoor,Padmanabhanagar,Cash,No,260.43,10.58,1.70,3.30
+CNR3590493555,"Driver Not Found","Prime Plus","Electronic City","KR Puram",null,Unknown,259.38,10.57,NULL,NULL
+CNR4204184674,Success,"Prime SUV","Tumkur Road","Cox Town",UPI,No,258.34,10.55,3.40,4.90
+CNR8474873609,"Canceled by Customer","Prime Plus","HSR Layout","KR Puram",null,Unknown,257.30,10.54,NULL,NULL
+CNR1945536910,Success,Auto,"Sahakar Nagar","JP Nagar",Cash,No,256.26,10.52,4.20,4.40
+CNR8097291227,Success,"Prime Plus","Mysore Road",Rajajinagar,UPI,No,255.22,10.51,4.46,4.71
+CNR1433815647,Success,"Prime SUV",Banashankari,Marathahalli,Cash,No,254.18,10.49,4.72,5.02
+CNR5876056264,Success,"Prime SUV",Kadugodi,Shantinagar,UPI,No,253.14,10.48,4.98,5.33
+CNR2943788516,"Canceled by Driver",Bike,Shantinagar,"Ramamurthy Nagar",null,Unknown,252.10,10.47,NULL,NULL
+CNR5599931622,Success,"Prime SUV",Peenya,"Frazer Town",Cash,No,251.06,10.45,4.61,4.17
+CNR6776927575,Success,Bike,"Hosur Road",Nagarbhavi,Cash,No,250.02,10.44,4.67,4.18
+CNR4880622143,Success,eBike,Rajajinagar,Kammanahalli,UPI,No,248.98,10.42,4.72,4.20
+CNR2653990964,Success,Auto,"Sarjapur Road","Sarjapur Road",UPI,No,247.94,10.41,4.78,4.21
+CNR2560134971,Success,"Prime Sedan",Majestic,Malleshwaram,UPI,No,246.90,10.39,4.84,4.22
+CNR4795488474,Success,"Prime Sedan",Peenya,"Frazer Town","Credit Card",No,245.86,10.38,4.89,4.24
+CNR6662649739,Success,Auto,"Ramamurthy Nagar",Banashankari,"Debit Card",No,244.82,10.36,4.95,4.25
+CNR2524442919,Success,"Prime Plus",Hulimavu,"RT Nagar","Credit Card",No,243.78,10.35,5.01,4.27
+CNR4977956798,Success,Auto,Banashankari,"Sarjapur Road",Cash,No,242.74,10.33,5.06,4.28
+CNR2002215421,Success,"Prime SUV",Whitefield,"BTM Layout",Cash,No,241.70,10.32,5.12,4.29
+CNR9590311980,Success,Auto,"Bannerghatta Road","Tumkur Road",Cash,Yes,240.66,10.30,5.18,4.31
+CNR3124565732,Success,Auto,Basavanagudi,Chickpet,UPI,No,239.62,10.29,5.23,4.32
+CNR6090870401,Success,"Prime SUV","Ramamurthy Nagar","KR Puram",Cash,No,238.58,10.27,5.29,4.33
+CNR9405757355,Success,Auto,"Richmond Town",Banashankari,UPI,No,237.54,10.26,5.35,4.35
+CNR7078608984,"Driver Not Found",eBike,Shantinagar,Hebbal,null,Unknown,236.50,10.24,NULL,NULL
+CNR3115972497,Success,"Prime SUV",Banashankari,Yelahanka,UPI,No,235.46,10.23,5.17,4.80
+CNR2590720844,Success,Mini,Majestic,"Magadi Road",UPI,No,234.42,10.22,5.62,5.20
+CNR7307808711,Success,"Prime SUV","MG Road","BTM Layout",Cash,No,233.38,10.20,6.07,5.60
+CNR9207534980,"Canceled by Driver","Prime Plus",Whitefield,Kammanahalli,null,Unknown,232.34,10.19,NULL,NULL
+CNR8478607960,Success,"Prime Sedan",Shivajinagar,"BTM Layout",UPI,No,231.30,10.17,4.30,4.40
+CNR6867991693,Success,"Prime Plus",Bellandur,Indiranagar,Cash,No,230.26,10.16,4.28,4.37
+CNR4134417166,Success,Bike,Ulsoor,Whitefield,Cash,No,229.22,10.14,4.26,4.34
+CNR6026842144,Success,"Prime SUV","Bannerghatta Road",Padmanabhanagar,"Credit Card",No,228.18,10.13,4.24,4.31
+CNR1373400642,"Canceled by Driver",Mini,Shivajinagar,Kadugodi,null,Unknown,227.14,10.11,NULL,NULL
+CNR7756361076,"Canceled by Driver",Auto,Koramangala,Hebbal,null,Unknown,226.10,10.10,NULL,NULL
+CNR1058833100,Success,Bike,"Frazer Town",Jayanagar,Cash,No,225.06,10.08,4.10,3.60
+CNR8150133799,"Driver Not Found",eBike,Chickpet,"HSR Layout",null,Unknown,224.02,10.07,NULL,NULL
+CNR2702497870,Success,"Prime SUV",Shivajinagar,Indiranagar,Cash,No,222.98,10.05,4.10,3.60
+CNR2485354371,"Canceled by Customer","Prime SUV","Tumkur Road","Langford Town",null,Unknown,221.94,10.04,NULL,NULL
+CNR4311649934,"Canceled by Customer","Prime SUV","Sahakar Nagar","Hosur Road",null,Unknown,220.89,10.02,NULL,NULL
+CNR8258871692,"Driver Not Found",Auto,Peenya,"Cox Town",null,Unknown,219.85,10.01,NULL,NULL
+CNR7844432925,Success,"Prime SUV","Electronic City","KR Puram",Cash,No,218.81,9.99,3.90,3.45
+CNR3149119792,Success,Mini,Hebbal,Ulsoor,"Credit Card",No,217.77,9.98,3.89,3.25
+CNR6545513695,Success,"Prime SUV",Kengeri,Devanahalli,UPI,No,216.73,9.97,3.88,3.05
+CNR6427297269,Success,Mini,Shivajinagar,"KR Puram",Cash,No,215.69,9.95,3.87,2.85
+CNR1684336792,"Canceled by Customer","Prime Plus","HSR Layout",Kengeri,null,Unknown,214.65,9.94,NULL,NULL
+CNR8107628541,"Canceled by Customer","Prime SUV",Peenya,Kadugodi,null,Unknown,213.61,9.92,NULL,NULL
+CNR8516392891,Success,"Prime Sedan",Shivajinagar,Kadugodi,Cash,No,212.57,9.91,4.90,4.00
+CNR5043217856,"Canceled by Driver",Auto,"Sarjapur Road",Chamarajpet,null,Unknown,211.53,9.89,NULL,NULL
+CNR7829903493,"Canceled by Driver",eBike,Indiranagar,Kammanahalli,null,Unknown,210.49,9.88,NULL,NULL
+CNR4290294194,"Canceled by Driver",Auto,"Richmond Town","Sahakar Nagar",null,Unknown,209.45,9.86,NULL,NULL
+CNR4330381266,Success,Auto,Banashankari,"Rajarajeshwari Nagar",UPI,No,208.41,9.85,2.20,2.10
+CNR6146948780,Success,eBike,"Bannerghatta Road",Kammanahalli,UPI,No,207.37,9.83,1.10,1.00
+CNR4211386644,"Canceled by Driver",eBike,"RT Nagar","HSR Layout",null,Unknown,206.33,9.82,NULL,NULL
+CNR5828080027,Success,"Prime Plus","Sarjapur Road",Banashankari,UPI,No,205.29,9.80,4.29,3.65
+CNR5043719137,Success,Mini,Banashankari,Kammanahalli,UPI,No,204.25,9.79,4.31,3.59
+CNR2332223816,Success,Mini,Whitefield,"Ramamurthy Nagar",UPI,No,203.21,9.77,4.33,3.52
+CNR5863244684,Success,eBike,Hebbal,"HSR Layout",Cash,Yes,202.17,9.76,4.35,3.46
+CNR2051641682,Success,Auto,Ulsoor,Kadugodi,Cash,No,201.13,9.75,4.37,3.40
+CNR6963252366,Success,Bike,Yeshwanthpur,Kadugodi,Cash,No,200.09,9.73,4.39,3.34
+CNR6561084640,Success,Bike,Kengeri,"Magadi Road",Cash,No,199.05,9.72,4.41,3.28
+CNR8606343558,Success,Bike,Kadugodi,Yeshwanthpur,UPI,No,198.01,9.70,4.43,3.22
+CNR6129451090,Success,"Prime Sedan",Shantinagar,"Bannerghatta Road",Cash,No,196.97,9.69,4.45,3.15
+CNR8991153488,"Canceled by Driver",eBike,Vijayanagar,Kadugodi,null,Unknown,195.93,9.67,NULL,NULL
+CNR3555127202,Success,Auto,Koramangala,Varthur,Cash,No,194.89,9.66,3.55,3.50
+CNR2478670622,Success,"Prime Plus",Hennur,"Hosur Road",UPI,No,193.85,9.64,3.27,3.14
+CNR2637746164,Success,Auto,Hebbal,Majestic,Cash,No,192.81,9.63,2.99,2.78
+CNR1098685369,Success,Auto,Basavanagudi,Nagarbhavi,Cash,No,191.77,9.61,2.71,2.42
+CNR3013333422,"Driver Not Found",eBike,Kadugodi,Hennur,null,Unknown,190.73,9.60,NULL,NULL
+CNR6731320458,Success,"Prime Sedan","Hosur Road",Koramangala,Cash,No,189.69,9.58,4.90,3.60
+CNR1523677801,"Canceled by Driver","Prime SUV","Ramamurthy Nagar",Kammanahalli,null,Unknown,188.65,9.57,NULL,NULL
+CNR5683291566,Success,"Prime SUV","Sahakar Nagar",Indiranagar,UPI,No,187.61,9.55,3.10,3.70
+CNR9411398805,Success,"Prime Plus",Padmanabhanagar,"RT Nagar",Cash,No,186.57,9.54,3.00,3.10
+CNR7845975089,"Driver Not Found",Bike,"RT Nagar",Ulsoor,null,Unknown,185.53,9.52,NULL,NULL
+CNR3855977561,"Canceled by Driver","Prime Sedan",Hulimavu,"Richmond Town",null,Unknown,184.49,9.51,NULL,NULL
+CNR6774178719,Success,eBike,"KR Puram",Marathahalli,Cash,No,183.45,9.50,3.60,3.00
+CNR4046969464,"Canceled by Driver","Prime Plus",Koramangala,Devanahalli,null,Unknown,182.40,9.48,NULL,NULL
+CNR4475747544,Success,"Prime Sedan",Chickpet,"Langford Town",Cash,No,181.36,9.47,6.30,3.50
+CNR5165798104,Success,Bike,"Bannerghatta Road",Koramangala,Cash,No,180.32,9.45,7.90,2.80
+CNR4392965412,"Canceled by Driver","Prime SUV",Kammanahalli,"Richmond Town",null,Unknown,179.28,9.44,NULL,NULL
+CNR182852922,"Driver Not Found",Mini,"JP Nagar",Hulimavu,null,Unknown,178.24,9.42,NULL,NULL
+CNR1838062200,Success,Bike,"Mysore Road",Yelahanka,Cash,No,177.20,9.41,2.80,3.50
+CNR6691577601,Success,"Prime Sedan","MG Road","RT Nagar",UPI,No,176.16,9.39,2.10,3.70
+CNR9445908039,"Canceled by Customer",Mini,"Hosur Road",Banashankari,null,Unknown,175.12,9.38,NULL,NULL
+CNR3520288969,"Canceled by Driver",Bike,"Electronic City",Nagarbhavi,null,Unknown,174.08,9.36,NULL,NULL
+CNR1421371050,Success,eBike,"KR Puram",Kammanahalli,Cash,No,173.04,9.35,4.50,4.20
+CNR8086928686,"Canceled by Driver",Mini,Nagarbhavi,"MG Road",null,Unknown,172.00,9.33,NULL,NULL
+CNR3412387950,Success,"Prime Sedan",Majestic,Hulimavu,UPI,No,170.96,9.32,4.40,4.50
+CNR9728294566,"Canceled by Driver",Mini,Indiranagar,Whitefield,null,Unknown,169.92,9.30,NULL,NULL
+CNR2038783547,Success,"Prime SUV","KR Puram",Yeshwanthpur,Cash,No,168.88,9.29,4.60,4.10
+CNR1159232052,"Canceled by Customer",Bike,"Magadi Road",Vijayanagar,null,Unknown,167.84,9.27,NULL,NULL
+CNR7683288053,Success,"Prime Plus",Vijayanagar,"KR Puram",UPI,No,166.80,9.26,3.10,3.30
+CNR7308621555,"Canceled by Customer",Mini,"Sahakar Nagar",Whitefield,null,Unknown,165.76,9.25,NULL,NULL
+CNR6893200456,"Canceled by Driver","Prime SUV",Whitefield,"Rajarajeshwari Nagar",null,Unknown,164.72,9.23,NULL,NULL
+CNR8506315424,"Canceled by Customer",Mini,"Hosur Road",Peenya,null,Unknown,163.68,9.22,NULL,NULL
+CNR6289456005,"Driver Not Found",Bike,Malleshwaram,Malleshwaram,null,Unknown,162.64,9.20,NULL,NULL
+CNR3652386034,Success,Bike,Jayanagar,"MG Road",UPI,No,161.60,9.19,3.30,3.90
+CNR7500140086,Success,"Prime SUV","Langford Town","Tumkur Road",Cash,No,160.56,9.17,3.30,4.20
+CNR9206491878,"Driver Not Found","Prime Sedan",Rajajinagar,Padmanabhanagar,null,Unknown,159.52,9.16,NULL,NULL
+CNR2205857990,Success,"Prime Sedan",Hebbal,"BTM Layout",UPI,No,158.48,9.14,3.80,4.40
+CNR406817535,"Canceled by Driver",Mini,Peenya,Padmanabhanagar,null,Unknown,157.44,9.13,NULL,NULL
+CNR8826275068,Success,"Prime Sedan","Richmond Town","Tumkur Road",Cash,No,156.40,9.11,4.10,4.00
+CNR9942066704,"Canceled by Driver","Prime Sedan",Yelahanka,"Sarjapur Road",null,Unknown,155.36,9.10,NULL,NULL
+CNR2361275901,Success,Auto,"Magadi Road",Peenya,Cash,No,154.32,9.08,4.05,4.45
+CNR4419040819,Success,Bike,Kengeri,Devanahalli,UPI,No,153.28,9.07,3.93,4.72
+CNR1911058133,Success,Mini,"Mysore Road","Hosur Road",Cash,No,152.24,9.05,3.81,4.99
+CNR8926984331,Success,Auto,Kengeri,Shantinagar,Cash,No,151.20,9.04,3.69,5.26
+CNR2191224964,"Canceled by Driver",Mini,Koramangala,Varthur,null,Unknown,150.16,9.02,NULL,NULL
+CNR6024993831,"Canceled by Customer",eBike,"Cox Town",Kadugodi,null,Unknown,149.12,9.01,NULL,NULL
+CNR3704418935,"Canceled by Customer",Bike,Yeshwanthpur,Malleshwaram,null,Unknown,148.08,9.00,NULL,NULL
+CNR6259704301,Success,"Prime Sedan",Jayanagar,"HSR Layout",Cash,No,147.04,8.98,3.80,3.20
+CNR4588889454,"Driver Not Found","Prime SUV","Rajarajeshwari Nagar","Cox Town",null,Unknown,146.00,8.97,NULL,NULL
+CNR9102117353,Success,"Prime Plus","Cox Town","Magadi Road",UPI,No,144.96,8.95,3.80,4.90
+CNR9855871509,"Canceled by Driver","Prime Sedan","RT Nagar","Mysore Road",null,Unknown,143.91,8.94,NULL,NULL
+CNR6491202733,Success,Mini,"Magadi Road","Cox Town",UPI,No,142.87,8.92,3.71,4.90
+CNR1767970744,Success,Bike,Peenya,"Rajarajeshwari Nagar",UPI,No,141.83,8.91,3.80,5.24
+CNR6136026561,Success,eBike,"HSR Layout",Bellandur,UPI,No,140.79,8.89,3.89,5.58
+CNR7642653871,Success,"Prime Sedan",Banashankari,"Sarjapur Road",Cash,No,139.75,8.88,3.98,5.92
+CNR8369636566,Success,"Prime Plus",Indiranagar,Yelahanka,Cash,No,138.71,8.86,4.07,6.26
+CNR8073437118,"Canceled by Driver",eBike,Hennur,"Langford Town",null,Unknown,137.67,8.85,NULL,NULL
+CNR5116585243,"Canceled by Driver",Auto,"Tumkur Road",Ulsoor,null,Unknown,136.63,8.83,NULL,NULL
+CNR9699923253,Success,"Prime SUV",Indiranagar,Basavanagudi,Cash,No,135.59,8.82,3.20,4.10
+CNR1201589640,"Canceled by Customer","Prime Sedan",Banashankari,"Cox Town",null,Unknown,134.55,8.80,NULL,NULL
+CNR1689403754,Success,Mini,Devanahalli,"Hosur Road",UPI,No,133.51,8.79,4.81,3.83
+CNR1501229480,Success,Mini,Banashankari,"Richmond Town","Credit Card",No,132.47,8.78,4.98,3.76
+CNR8602417067,Success,"Prime SUV","Cox Town",Basavanagudi,UPI,No,131.43,8.76,5.14,3.69
+CNR5180944150,Success,"Prime Sedan","Magadi Road","Bannerghatta Road","Credit Card",No,130.39,8.75,5.31,3.62
+CNR5569548787,Success,"Prime Plus",Banashankari,Shivajinagar,UPI,No,129.35,8.73,5.48,3.55
+CNR2826030098,Success,Bike,Koramangala,"Mysore Road",Cash,No,128.31,8.72,5.65,3.48
+CNR4887495881,"Canceled by Customer","Prime SUV",Chamarajpet,"Ramamurthy Nagar",null,Unknown,127.27,8.70,NULL,NULL
+CNR4946474476,"Canceled by Customer",Bike,Chamarajpet,"BTM Layout",null,Unknown,126.23,8.69,NULL,NULL
+CNR5414099759,Success,"Prime Sedan",Rajajinagar,"Ramamurthy Nagar",UPI,No,125.19,8.67,3.10,3.40
+CNR2568139915,"Driver Not Found","Prime SUV",Whitefield,"RT Nagar",null,Unknown,124.15,8.66,NULL,NULL
+CNR8892975500,Success,Bike,"Rajarajeshwari Nagar","Sahakar Nagar",Cash,No,123.11,8.64,3.10,4.20
+CNR7552726236,"Driver Not Found","Prime Plus","Magadi Road",Chickpet,null,Unknown,122.07,8.63,NULL,NULL
+CNR1200026621,Success,"Prime SUV",Chickpet,"Tumkur Road",UPI,No,121.03,8.61,4.70,3.50
+CNR4187447284,"Driver Not Found","Prime SUV","Ramamurthy Nagar","RT Nagar",null,Unknown,119.99,8.60,NULL,NULL
+CNR3659491874,Success,Auto,"KR Puram","Bannerghatta Road",UPI,No,118.95,8.58,2.40,5.70
+CNR3623533429,Success,"Prime Plus",Basavanagudi,Yeshwanthpur,UPI,No,117.91,8.57,1.70,6.50
+CNR3824632577,"Canceled by Driver",Bike,"Sahakar Nagar",Koramangala,null,Unknown,116.87,8.55,NULL,NULL
+CNR2817233926,Success,eBike,Kengeri,Koramangala,UPI,No,115.83,8.54,2.30,4.60
+CNR2091398962,Success,eBike,"Bannerghatta Road",Indiranagar,Cash,No,114.79,8.53,1.00,5.00
+CNR5220085842,"Canceled by Driver","Prime Sedan",Rajajinagar,Bellandur,null,Unknown,113.75,8.51,NULL,NULL
+CNR9795770576,Success,Auto,Yelahanka,Basavanagudi,Cash,No,112.71,8.50,4.62,3.85
+CNR4627809411,Success,Auto,Shivajinagar,"Electronic City",UPI,No,111.67,8.48,4.74,3.87
+CNR4003939102,Success,Mini,Varthur,"Tumkur Road",Cash,No,110.63,8.47,4.86,3.89
+CNR1308261538,Success,eBike,"Richmond Town","Rajarajeshwari Nagar",UPI,No,109.59,8.45,4.98,3.92
+CNR1556710084,Success,"Prime Sedan","RT Nagar","JP Nagar",Cash,No,108.55,8.44,5.10,3.94
+CNR4639016703,Success,"Prime Plus","Langford Town",Nagarbhavi,Cash,No,107.51,8.42,5.22,3.96
+booking_ID,booking_Status,vehicle_Type,pickup_Location,drop_Location,payment_Method,Unknown,NULL,NULL,NULL,NULL
+CNR7153255142,"Canceled by Driver","Prime Sedan","Tumkur Road","RT Nagar",null,Unknown,250.02,10.44,NULL,NULL
+CNR2940424040,Success,Bike,"Magadi Road",Varthur,Cash,No,248.98,10.42,4.50,7.20
+CNR2982357879,Success,"Prime SUV","Sahakar Nagar",Varthur,UPI,No,247.94,10.41,4.60,8.00
+CNR2395710036,"Canceled by Customer",eBike,"HSR Layout",Vijayanagar,null,Unknown,246.90,10.39,NULL,NULL
+CNR1797421769,Success,Mini,Rajajinagar,Chamarajpet,"Credit Card",No,245.86,10.38,1.53,7.78
+CNR8787177882,Success,Mini,Kadugodi,Vijayanagar,UPI,No,244.82,10.36,1.13,8.53
+CNR3612067562,Success,Bike,"Tumkur Road",Whitefield,Cash,No,243.78,10.35,0.73,9.28
+CNR5374902489,"Canceled by Driver","Prime Plus","Bannerghatta Road","Sarjapur Road",null,Unknown,242.74,10.33,NULL,NULL
+CNR5030602354,"Driver Not Found",Mini,Chamarajpet,Peenya,null,Unknown,241.70,10.32,NULL,NULL
+CNR6328453219,"Canceled by Driver",Auto,"RT Nagar",Varthur,null,Unknown,240.66,10.30,NULL,NULL
+CNR4787583516,Success,"Prime Plus","Hosur Road",Jayanagar,Cash,No,239.62,10.29,0.05,7.70
+CNR7943634301,Success,"Prime Plus",Kammanahalli,Rajajinagar,Cash,No,238.58,10.27,NULL,8.40
+CNR4524472111,Success,Auto,"Cox Town",Yelahanka,UPI,No,237.54,10.26,NULL,9.10
+CNR3914552214,"Canceled by Driver",Auto,"Hosur Road",Banashankari,null,Unknown,236.50,10.24,NULL,NULL
+CNR8181602032,Success,Bike,Indiranagar,"MG Road",UPI,No,235.46,10.23,0.40,2.10
+CNR8090918544,Success,Bike,"Magadi Road","HSR Layout",UPI,No,234.42,10.22,NULL,1.60
+CNR3150620730,"Driver Not Found",Mini,"Ramamurthy Nagar","BTM Layout",null,Unknown,233.38,10.20,NULL,NULL
+CNR3135442090,Success,Bike,"Electronic City","Langford Town",Cash,No,232.34,10.19,5.08,3.30
+CNR9975925287,Success,"Prime SUV","Magadi Road","RT Nagar",UPI,No,231.30,10.17,5.25,3.22
+CNR1238051407,Success,eBike,Koramangala,"Sarjapur Road",Cash,No,230.26,10.16,5.42,3.14
+CNR3297269549,Success,eBike,Basavanagudi,Hulimavu,Cash,No,229.22,10.14,5.59,3.06
+CNR6013805089,Success,"Prime Sedan",Padmanabhanagar,Jayanagar,Cash,No,228.18,10.13,5.76,2.98
+CNR4306636052,"Canceled by Driver","Prime SUV","Mysore Road",Vijayanagar,null,Unknown,227.14,10.11,NULL,NULL
+CNR9832070187,Success,Bike,Koramangala,"BTM Layout",Cash,No,226.10,10.10,2.35,6.26
+CNR5620539253,Success,"Prime Plus","Mysore Road","Sahakar Nagar",Cash,No,225.06,10.08,2.16,6.54
+CNR4443921904,Success,Mini,"Tumkur Road",Koramangala,UPI,No,224.02,10.07,1.97,6.82
+CNR7194303296,Success,Mini,"Mysore Road",Hennur,UPI,No,222.98,10.05,1.77,7.10
+CNR6494005067,Success,Auto,Yelahanka,Malleshwaram,UPI,No,221.94,10.04,1.58,7.38
+CNR6805579107,Success,"Prime SUV",Indiranagar,Indiranagar,Cash,No,220.89,10.02,1.38,7.66
+CNR6003663433,"Canceled by Customer","Prime Plus",Rajajinagar,Chamarajpet,null,Unknown,219.85,10.01,NULL,NULL
+CNR2998177392,"Driver Not Found",Auto,"RT Nagar",Yelahanka,null,Unknown,218.81,9.99,NULL,NULL
+CNR7979458138,Success,eBike,"Frazer Town",Indiranagar,Cash,No,217.77,9.98,4.80,4.70
+CNR7286474506,"Canceled by Customer",eBike,Jayanagar,"Richmond Town",null,Unknown,216.73,9.97,NULL,NULL
+CNR9820692957,Success,"Prime Sedan",Koramangala,"Hosur Road",Cash,No,215.69,9.95,7.25,2.23
+CNR4094067441,Success,"Prime Sedan",Majestic,Jayanagar,Cash,No,214.65,9.94,7.90,2.03
+CNR7142279862,Success,eBike,Yeshwanthpur,"JP Nagar",UPI,No,213.61,9.92,8.55,1.83
+CNR5488574120,"Canceled by Driver",Auto,Peenya,"Hosur Road",null,Unknown,212.57,9.91,NULL,NULL
+CNR8148468821,"Canceled by Driver","Prime Plus",Marathahalli,"BTM Layout",null,Unknown,211.53,9.89,NULL,NULL
+CNR5176704322,Success,"Prime Plus","KR Puram",Hennur,UPI,Yes,210.49,9.88,3.10,3.50
+CNR9287248724,"Canceled by Driver","Prime SUV","Hosur Road",Yeshwanthpur,null,Unknown,209.45,9.86,NULL,NULL
+CNR7547352327,Success,"Prime Plus",Hulimavu,"Rajarajeshwari Nagar",UPI,No,208.41,9.85,3.80,4.90
+CNR9660405769,"Canceled by Driver",eBike,"Electronic City",Varthur,null,Unknown,207.37,9.83,NULL,NULL
+CNR4251304471,Success,"Prime SUV",Shivajinagar,Jayanagar,Cash,No,206.33,9.82,3.18,6.25
+CNR1568684278,Success,"Prime Plus","Bannerghatta Road",Majestic,UPI,No,205.29,9.80,3.00,6.60
+CNR2230045814,Success,"Prime SUV","Cox Town",Chamarajpet,Cash,No,204.25,9.79,2.82,6.95
+CNR7871058089,Success,Mini,Hennur,Kengeri,Cash,No,203.21,9.77,2.64,7.30
+CNR5503358927,"Driver Not Found",Bike,Peenya,"MG Road",null,Unknown,202.17,9.76,NULL,NULL
+CNR2670882995,Success,"Prime Plus",Devanahalli,Rajajinagar,Cash,No,201.13,9.75,4.11,5.94
+CNR1587815016,Success,eBike,"Ramamurthy Nagar","Sahakar Nagar",Cash,No,200.09,9.73,4.13,6.12
+CNR9312632867,Success,"Prime SUV","Tumkur Road","Mysore Road",Cash,Yes,199.05,9.72,4.15,6.30
+CNR5274603340,Success,"Prime SUV","Electronic City",Banashankari,Cash,No,198.01,9.70,4.17,6.49
+CNR1050003752,Success,Bike,Chamarajpet,Shivajinagar,UPI,No,196.97,9.69,4.19,6.67
+CNR3603517873,Success,eBike,"Rajarajeshwari Nagar",Marathahalli,Cash,No,195.93,9.67,4.21,6.85
+CNR1557960488,"Driver Not Found","Prime SUV","Rajarajeshwari Nagar",Varthur,null,Unknown,194.89,9.66,NULL,NULL
+CNR9758857830,Success,"Prime Plus","HSR Layout","Magadi Road",UPI,No,193.85,9.64,9.50,6.50
+CNR8080410192,Success,eBike,Jayanagar,"JP Nagar",UPI,No,192.81,9.63,NULL,7.20
+CNR1657911430,"Canceled by Driver",Bike,Hennur,Padmanabhanagar,null,Unknown,191.77,9.61,NULL,NULL
+CNR3024953618,Success,Mini,Hennur,Chamarajpet,Cash,No,190.73,9.60,5.51,1.90
+CNR7825941026,Success,Mini,Marathahalli,"Langford Town",UPI,No,189.69,9.58,5.70,1.55
+CNR9148580255,Success,"Prime SUV","Tumkur Road","Magadi Road",UPI,No,188.65,9.57,5.89,1.20
+CNR2946309760,Success,"Prime Plus","Hosur Road",Hennur,Cash,No,187.61,9.55,6.08,0.85
+CNR3472489570,"Driver Not Found","Prime SUV","Electronic City",Marathahalli,null,Unknown,186.57,9.54,NULL,NULL
+CNR1768885472,"Canceled by Driver","Prime SUV",Basavanagudi,Padmanabhanagar,null,Unknown,185.53,9.52,NULL,NULL
+CNR7486448495,Success,Auto,Ulsoor,Padmanabhanagar,UPI,No,184.49,9.51,4.00,4.30
+CNR2735636506,"Driver Not Found","Prime SUV","Cox Town",Chamarajpet,null,Unknown,183.45,9.50,NULL,NULL
+CNR7533317866,"Canceled by Customer",Mini,Shantinagar,Hulimavu,null,Unknown,182.40,9.48,NULL,NULL
+CNR5758479139,Success,"Prime Sedan","RT Nagar",Chickpet,Cash,No,181.36,9.47,5.10,5.72
+CNR8021985469,Success,Mini,"Hosur Road",Kadugodi,Cash,No,180.32,9.45,5.22,5.93
+CNR3800597074,Success,Mini,"JP Nagar",Chickpet,Cash,No,179.28,9.44,5.34,6.14
+CNR6179425512,Success,Mini,"Bannerghatta Road",Basavanagudi,Cash,No,178.24,9.42,5.46,6.35
+CNR7924302885,Success,Auto,"Magadi Road",Nagarbhavi,UPI,Yes,177.20,9.41,5.58,6.56
+CNR7181374756,"Canceled by Driver",Auto,Devanahalli,Kammanahalli,null,Unknown,176.16,9.39,NULL,NULL
+CNR2830899442,Success,Mini,Kadugodi,"Frazer Town",UPI,No,175.12,9.38,4.30,3.40
+CNR7592165192,"Canceled by Driver","Prime SUV","Rajarajeshwari Nagar","HSR Layout",null,Unknown,174.08,9.36,NULL,NULL
+CNR6077524333,"Canceled by Driver","Prime SUV",Chickpet,Shantinagar,null,Unknown,173.04,9.35,NULL,NULL
+CNR8854206454,Success,eBike,"Langford Town",Kadugodi,Cash,No,172.00,9.33,3.30,4.30
+CNR6387231274,"Driver Not Found","Prime Sedan","Bannerghatta Road",Indiranagar,null,Unknown,170.96,9.32,NULL,NULL
+CNR6215530366,Success,eBike,Devanahalli,Jayanagar,Cash,No,169.92,9.30,4.12,4.42
+CNR4314026109,Success,"Prime SUV","Tumkur Road","Bannerghatta Road",Cash,No,168.88,9.29,4.07,4.37
+CNR9027465661,Success,"Prime Sedan","BTM Layout",Majestic,UPI,No,167.84,9.27,4.02,4.32
+CNR5003494701,"Canceled by Driver",Mini,"Sarjapur Road",Majestic,null,Unknown,166.80,9.26,NULL,NULL
+CNR2402140477,Success,Bike,Peenya,Devanahalli,Cash,No,165.76,9.25,6.44,3.74
+CNR2486510891,Success,Auto,Chickpet,Hennur,UPI,No,164.72,9.23,6.73,3.67
+CNR9704400677,Success,Mini,"Langford Town",Vijayanagar,Cash,No,163.68,9.22,7.02,3.60
+CNR8836460204,Success,eBike,Bellandur,Shantinagar,UPI,No,162.64,9.20,7.31,3.53
+CNR3697318611,Success,Bike,"Sarjapur Road",Chickpet,UPI,No,161.60,9.19,7.60,3.46
+CNR6541289543,"Canceled by Driver","Prime SUV","Frazer Town",Whitefield,null,Unknown,160.56,9.17,NULL,NULL
+CNR8369601219,"Canceled by Driver","Prime SUV","Richmond Town",Jayanagar,null,Unknown,159.52,9.16,NULL,NULL
+CNR8346388703,"Canceled by Driver",Mini,"Magadi Road","BTM Layout",null,Unknown,158.48,9.14,NULL,NULL
+CNR4445082348,Success,Mini,Yelahanka,"BTM Layout",UPI,No,157.44,9.13,4.40,9.10
+CNR5528764313,Success,"Prime SUV","Ramamurthy Nagar","Bannerghatta Road",UPI,No,156.40,9.11,4.60,NULL
+CNR3967141570,"Canceled by Driver",Auto,Padmanabhanagar,"Ramamurthy Nagar",null,Unknown,155.36,9.10,NULL,NULL
+CNR7054352438,"Driver Not Found",Mini,Hennur,"Cox Town",null,Unknown,154.32,9.08,NULL,NULL
+CNR1640228589,Success,"Prime Sedan",Kengeri,"Mysore Road",Cash,Yes,153.28,9.07,0.53,5.00
+CNR6684033796,Success,Auto,Indiranagar,Whitefield,Cash,No,152.24,9.05,NULL,5.10
+CNR4158584924,Success,Auto,"Sahakar Nagar","Ramamurthy Nagar",UPI,No,151.20,9.04,NULL,5.20
+CNR5133236273,"Canceled by Driver","Prime Plus",Banashankari,Chickpet,null,Unknown,150.16,9.02,NULL,NULL
+CNR5661490576,Success,Bike,"Magadi Road","Electronic City",Cash,No,149.12,9.01,2.30,2.20
+CNR2304446757,Success,eBike,"Rajarajeshwari Nagar","MG Road",Cash,No,148.08,9.00,1.70,1.90
+CNR3780555542,"Canceled by Customer",Mini,"Tumkur Road",Chamarajpet,null,Unknown,147.04,8.98,NULL,NULL
+CNR1559782157,Success,Auto,Ulsoor,Bellandur,Cash,No,146.00,8.97,4.34,6.22
+CNR7623690602,Success,Bike,"Cox Town",Malleshwaram,UPI,Yes,144.96,8.95,4.46,6.54
+CNR2098165200,Success,"Prime Sedan",Yelahanka,"Ramamurthy Nagar",UPI,No,143.91,8.94,4.58,6.86
+CNR5502012579,Success,Mini,Vijayanagar,Kengeri,Cash,No,142.87,8.92,4.70,7.18
+CNR4698965967,Success,"Prime Sedan","Ramamurthy Nagar",Chickpet,Cash,No,141.83,8.91,4.82,7.50
+CNR8566688320,"Driver Not Found",Bike,Chickpet,Shivajinagar,null,Unknown,140.79,8.89,NULL,NULL
+CNR8014852782,"Canceled by Customer","Prime Plus",Kammanahalli,"Magadi Road",null,Unknown,139.75,8.88,NULL,NULL
+CNR6012739836,"Driver Not Found","Prime Sedan","Ramamurthy Nagar","Magadi Road",null,Unknown,138.71,8.86,NULL,NULL
+CNR3404012929,Success,Mini,Chickpet,Chamarajpet,Cash,No,137.67,8.85,NULL,0.20
+CNR9282027845,Success,Bike,Yeshwanthpur,"KR Puram",UPI,No,136.63,8.83,NULL,NULL
+CNR5508853708,"Canceled by Customer","Prime Plus",Shivajinagar,"HSR Layout",null,Unknown,135.59,8.82,NULL,NULL
+CNR4241139231,Success,"Prime Plus",Kammanahalli,Shivajinagar,Cash,No,134.55,8.80,4.70,4.10
+CNR8306274838,"Driver Not Found",Bike,Bellandur,"Rajarajeshwari Nagar",null,Unknown,133.51,8.79,NULL,NULL
+CNR1700243966,"Canceled by Customer",eBike,"Mysore Road",Vijayanagar,null,Unknown,132.47,8.78,NULL,NULL
+CNR1649342329,"Canceled by Driver","Prime Sedan",Yelahanka,Majestic,null,Unknown,131.43,8.76,NULL,NULL
+CNR5744401218,Success,Bike,Yelahanka,Varthur,UPI,No,130.39,8.75,3.00,8.70
+CNR7221640450,Success,"Prime Sedan","RT Nagar",Whitefield,UPI,No,129.35,8.73,2.90,NULL
+CNR8395803905,"Canceled by Driver",eBike,"Bannerghatta Road","RT Nagar",null,Unknown,128.31,8.72,NULL,NULL
+CNR225602446,Success,"Prime SUV","Mysore Road",Peenya,Cash,No,127.27,8.70,2.28,1.18
+CNR3639382510,Success,"Prime SUV","BTM Layout",Malleshwaram,Cash,No,126.23,8.69,1.93,0.63
+CNR8303547069,Success,Mini,"Langford Town","Richmond Town","Credit Card",No,125.19,8.67,1.58,0.08
+CNR7368110421,"Canceled by Driver",Mini,Peenya,"Sarjapur Road",null,Unknown,124.15,8.66,NULL,NULL
+CNR7500310853,Success,"Prime Sedan",Jayanagar,"Richmond Town",UPI,No,123.11,8.64,4.27,5.67
+CNR8925319975,Success,"Prime Sedan",Yelahanka,Rajajinagar,UPI,No,122.07,8.63,4.37,5.97
+CNR9261561390,Success,Auto,Koramangala,Majestic,Cash,No,121.03,8.61,4.47,6.27
+CNR3165383121,"Canceled by Driver","Prime SUV",Devanahalli,"KR Puram",null,Unknown,119.99,8.60,NULL,NULL
+CNR7006798592,"Driver Not Found","Prime Sedan",Ulsoor,"RT Nagar",null,Unknown,118.95,8.58,NULL,NULL
+CNR5613886410,Success,Auto,Marathahalli,"KR Puram",UPI,No,117.91,8.57,1.00,2.10
+CNR5841521780,Success,"Prime SUV","Ramamurthy Nagar",Varthur,Cash,No,116.87,8.55,0.30,1.60
+CNR595777947,"Canceled by Customer",Mini,Malleshwaram,"Magadi Road",null,Unknown,115.83,8.54,NULL,NULL
+CNR1082280836,Success,Bike,"Hosur Road","Richmond Town",Cash,No,114.79,8.53,4.85,5.85
+CNR6765124275,Success,"Prime Sedan",Chamarajpet,Banashankari,Cash,No,113.75,8.51,5.00,6.30
+CNR9762994658,Success,"Prime Plus","RT Nagar","Sahakar Nagar",UPI,No,112.71,8.50,5.15,6.75
+CNR8072285783,"Canceled by Customer","Prime Plus","Frazer Town","Sarjapur Road",null,Unknown,111.67,8.48,NULL,NULL
+CNR8116331340,Success,Auto,"RT Nagar","Sarjapur Road",UPI,No,110.63,8.47,6.54,3.23
+CNR3491700602,Success,Mini,"Richmond Town","Langford Town",UPI,No,109.59,8.45,6.90,3.05
+CNR2166456022,Success,Mini,Yeshwanthpur,Indiranagar,Cash,No,108.55,8.44,7.26,2.87
+CNR2177201692,Success,Mini,"Richmond Town",Yeshwanthpur,Cash,No,107.51,8.42,7.62,2.69
+CNR5755482161,"Canceled by Driver","Prime SUV",Koramangala,Indiranagar,null,Unknown,106.47,8.41,NULL,NULL
+CNR4484571820,Success,Auto,"HSR Layout","Hosur Road",Cash,No,105.42,8.39,0.80,3.20
+CNR7377461832,Success,eBike,Ulsoor,Padmanabhanagar,Cash,No,104.38,8.38,NULL,3.10
+CNR522908497,"Driver Not Found","Prime Plus","Electronic City","KR Puram",null,Unknown,103.34,8.36,NULL,NULL
+CNR1136599616,Success,"Prime SUV","Tumkur Road","Cox Town",UPI,No,102.30,8.35,3.40,4.90
+CNR8474873609,"Canceled by Customer","Prime Plus","HSR Layout","KR Puram",null,Unknown,101.26,8.33,NULL,NULL
+CNR1945536911,Success,Auto,"Sahakar Nagar","JP Nagar",Cash,No,100.22,8.32,5.24,5.64
+CNR8097291227,Success,"Prime Plus","Mysore Road",Rajajinagar,UPI,No,99.18,8.30,5.50,5.95
+CNR1433815648,Success,"Prime SUV",Banashankari,Marathahalli,Cash,No,98.14,8.29,5.76,6.26
+CNR5876056264,Success,"Prime SUV",Kadugodi,Shantinagar,UPI,No,97.10,8.28,6.02,6.57
+CNR2943788517,"Canceled by Driver",Bike,Shantinagar,"Ramamurthy Nagar",null,Unknown,96.06,8.26,NULL,NULL
+CNR5599931622,Success,"Prime SUV",Peenya,"Frazer Town",Cash,No,95.02,8.25,4.61,4.17
+booking_ID,booking_Status,vehicle_Type,pickup_Location,drop_Location,payment_Method,Unknown,NULL,NULL,NULL,NULL
+CNR7153255142,"Canceled by Driver","Prime Sedan","Tumkur Road","RT Nagar",null,Unknown,106.47,8.41,NULL,NULL
+CNR2940424040,Success,Bike,"Magadi Road",Varthur,Cash,No,105.42,8.39,4.50,7.20
+CNR2982357879,Success,"Prime SUV","Sahakar Nagar",Varthur,UPI,No,104.38,8.38,4.60,8.00
+CNR2395710036,"Canceled by Customer",eBike,"HSR Layout",Vijayanagar,null,Unknown,103.34,8.36,NULL,NULL
+CNR1797421769,Success,Mini,Rajajinagar,Chamarajpet,"Credit Card",No,102.30,8.35,1.53,7.78
+CNR8787177882,Success,Mini,Kadugodi,Vijayanagar,UPI,No,101.26,8.33,1.13,8.53
+CNR3612067562,Success,Bike,"Tumkur Road",Whitefield,Cash,No,100.22,8.32,0.73,9.28
+CNR5374902489,"Canceled by Driver","Prime Plus","Bannerghatta Road","Sarjapur Road",null,Unknown,99.18,8.30,NULL,NULL
+CNR5030602354,"Driver Not Found",Mini,Chamarajpet,Peenya,null,Unknown,98.14,8.29,NULL,NULL
+CNR6328453219,"Canceled by Driver",Auto,"RT Nagar",Varthur,null,Unknown,97.10,8.28,NULL,NULL
+CNR4787583516,Success,"Prime Plus","Hosur Road",Jayanagar,Cash,No,96.06,8.26,0.05,7.70
+CNR7943634301,Success,"Prime Plus",Kammanahalli,Rajajinagar,Cash,No,95.02,8.25,NULL,8.40
+CNR4524472111,Success,Auto,"Cox Town",Yelahanka,UPI,No,93.98,8.23,NULL,9.10
+CNR3914552214,"Canceled by Driver",Auto,"Hosur Road",Banashankari,null,Unknown,92.94,8.22,NULL,NULL
+CNR8181602032,Success,Bike,Indiranagar,"MG Road",UPI,No,91.90,8.20,0.40,2.10
+CNR8090918544,Success,Bike,"Magadi Road","HSR Layout",UPI,No,90.86,8.19,NULL,1.60
+CNR3150620730,"Driver Not Found",Mini,"Ramamurthy Nagar","BTM Layout",null,Unknown,89.82,8.17,NULL,NULL
+CNR3135442090,Success,Bike,"Electronic City","Langford Town",Cash,No,88.78,8.16,5.08,3.30
+CNR9975925287,Success,"Prime SUV","Magadi Road","RT Nagar",UPI,No,87.74,8.14,5.25,3.22
+CNR1238051407,Success,eBike,Koramangala,"Sarjapur Road",Cash,No,86.70,8.13,5.42,3.14
+CNR3297269549,Success,eBike,Basavanagudi,Hulimavu,Cash,No,85.66,8.11,5.59,3.06
+CNR6013805089,Success,"Prime Sedan",Padmanabhanagar,Jayanagar,Cash,No,84.62,8.10,5.76,2.98
+CNR4306636052,"Canceled by Driver","Prime SUV","Mysore Road",Vijayanagar,null,Unknown,83.58,8.08,NULL,NULL
+CNR9832070187,Success,Bike,Koramangala,"BTM Layout",Cash,No,82.54,8.07,2.35,6.26
+CNR5620539253,Success,"Prime Plus","Mysore Road","Sahakar Nagar",Cash,No,81.50,8.06,2.16,6.54
+CNR4443921904,Success,Mini,"Tumkur Road",Koramangala,UPI,No,80.46,8.04,1.97,6.82
+CNR7194303296,Success,Mini,"Mysore Road",Hennur,UPI,No,79.42,8.03,1.77,7.10
+CNR6494005067,Success,Auto,Yelahanka,Malleshwaram,UPI,No,78.38,8.01,1.58,7.38
+CNR6805579107,Success,"Prime SUV",Indiranagar,Indiranagar,Cash,No,77.34,8.00,1.38,7.66
+CNR6003663433,"Canceled by Customer","Prime Plus",Rajajinagar,Chamarajpet,null,Unknown,76.30,7.98,NULL,NULL
+CNR2998177392,"Driver Not Found",Auto,"RT Nagar",Yelahanka,null,Unknown,75.26,7.97,NULL,NULL
+CNR7979458138,Success,eBike,"Frazer Town",Indiranagar,Cash,No,74.22,7.95,4.80,4.70
+CNR7286474506,"Canceled by Customer",eBike,Jayanagar,"Richmond Town",null,Unknown,73.18,7.94,NULL,NULL
+CNR9820692957,Success,"Prime Sedan",Koramangala,"Hosur Road",Cash,No,72.14,7.92,7.25,2.23
+CNR4094067441,Success,"Prime Sedan",Majestic,Jayanagar,Cash,No,71.10,7.91,7.90,2.03
+CNR7142279862,Success,eBike,Yeshwanthpur,"JP Nagar",UPI,No,70.06,7.89,8.55,1.83
+CNR5488574120,"Canceled by Driver",Auto,Peenya,"Hosur Road",null,Unknown,69.02,7.88,NULL,NULL
+CNR8148468821,"Canceled by Driver","Prime Plus",Marathahalli,"BTM Layout",null,Unknown,67.98,7.86,NULL,NULL
+CNR5176704322,Success,"Prime Plus","KR Puram",Hennur,UPI,Yes,66.93,7.85,3.10,3.50
+CNR9287248724,"Canceled by Driver","Prime SUV","Hosur Road",Yeshwanthpur,null,Unknown,65.89,7.83,NULL,NULL
+CNR7547352327,Success,"Prime Plus",Hulimavu,"Rajarajeshwari Nagar",UPI,No,64.85,7.82,3.80,4.90
+CNR9660405769,"Canceled by Driver",eBike,"Electronic City",Varthur,null,Unknown,63.81,7.81,NULL,NULL
+CNR4251304471,Success,"Prime SUV",Shivajinagar,Jayanagar,Cash,No,62.77,7.79,3.18,6.25
+CNR1568684278,Success,"Prime Plus","Bannerghatta Road",Majestic,UPI,No,61.73,7.78,3.00,6.60
+CNR2230045814,Success,"Prime SUV","Cox Town",Chamarajpet,Cash,No,60.69,7.76,2.82,6.95
+CNR7871058089,Success,Mini,Hennur,Kengeri,Cash,No,59.65,7.75,2.64,7.30
+CNR5503358927,"Driver Not Found",Bike,Peenya,"MG Road",null,Unknown,58.61,7.73,NULL,NULL
+CNR2670882995,Success,"Prime Plus",Devanahalli,Rajajinagar,Cash,No,57.57,7.72,4.11,5.94
+CNR1587815016,Success,eBike,"Ramamurthy Nagar","Sahakar Nagar",Cash,No,56.53,7.70,4.13,6.12
+CNR9312632867,Success,"Prime SUV","Tumkur Road","Mysore Road",Cash,Yes,55.49,7.69,4.15,6.30
+CNR5274603340,Success,"Prime SUV","Electronic City",Banashankari,Cash,No,54.45,7.67,4.17,6.49
+CNR1050003752,Success,Bike,Chamarajpet,Shivajinagar,UPI,No,53.41,7.66,4.19,6.67
+CNR3603517873,Success,eBike,"Rajarajeshwari Nagar",Marathahalli,Cash,No,52.37,7.64,4.21,6.85
+CNR1557960488,"Driver Not Found","Prime SUV","Rajarajeshwari Nagar",Varthur,null,Unknown,51.33,7.63,NULL,NULL
+CNR9758857830,Success,"Prime Plus","HSR Layout","Magadi Road",UPI,No,50.29,7.61,9.50,6.50
+CNR8080410192,Success,eBike,Jayanagar,"JP Nagar",UPI,No,49.25,7.60,NULL,7.20
+CNR494434462,"Canceled by Driver",Bike,Hennur,Padmanabhanagar,null,Unknown,48.21,7.58,NULL,NULL
+CNR1279738166,Success,Mini,Hennur,Chamarajpet,Cash,No,47.17,7.57,5.51,1.90
+CNR7825941026,Success,Mini,Marathahalli,"Langford Town",UPI,No,46.13,7.56,5.70,1.55
+CNR9148580255,Success,"Prime SUV","Tumkur Road","Magadi Road",UPI,No,45.09,7.54,5.89,1.20
+CNR2946309760,Success,"Prime Plus","Hosur Road",Hennur,Cash,No,44.05,7.53,6.08,0.85
+CNR3472489570,"Driver Not Found","Prime SUV","Electronic City",Marathahalli,null,Unknown,43.01,7.51,NULL,NULL
+CNR1768885472,"Canceled by Driver","Prime SUV",Basavanagudi,Padmanabhanagar,null,Unknown,41.97,7.50,NULL,NULL
+CNR7486448495,Success,Auto,Ulsoor,Padmanabhanagar,UPI,No,40.93,7.48,4.00,4.30
+CNR2735636506,"Driver Not Found","Prime SUV","Cox Town",Chamarajpet,null,Unknown,39.89,7.47,NULL,NULL
+CNR7533317866,"Canceled by Customer",Mini,Shantinagar,Hulimavu,null,Unknown,38.85,7.45,NULL,NULL
+CNR5758479139,Success,"Prime Sedan","RT Nagar",Chickpet,Cash,No,37.81,7.44,5.10,5.72
+CNR8021985469,Success,Mini,"Hosur Road",Kadugodi,Cash,No,36.77,7.42,5.22,5.93
+CNR3800597074,Success,Mini,"JP Nagar",Chickpet,Cash,No,35.73,7.41,5.34,6.14
+CNR6179425512,Success,Mini,"Bannerghatta Road",Basavanagudi,Cash,No,34.69,7.39,5.46,6.35
+CNR7924302885,Success,Auto,"Magadi Road",Nagarbhavi,UPI,Yes,33.65,7.38,5.58,6.56
+CNR7181374756,"Canceled by Driver",Auto,Devanahalli,Kammanahalli,null,Unknown,32.61,7.36,NULL,NULL
+CNR2830899442,Success,Mini,Kadugodi,"Frazer Town",UPI,No,31.57,7.35,4.30,3.40
+CNR7592165192,"Canceled by Driver","Prime SUV","Rajarajeshwari Nagar","HSR Layout",null,Unknown,30.53,7.33,NULL,NULL
+CNR6077524333,"Canceled by Driver","Prime SUV",Chickpet,Shantinagar,null,Unknown,29.49,7.32,NULL,NULL
+CNR8854206454,Success,eBike,"Langford Town",Kadugodi,Cash,No,28.44,7.31,3.30,4.30
+CNR6387231274,"Driver Not Found","Prime Sedan","Bannerghatta Road",Indiranagar,null,Unknown,27.40,7.29,NULL,NULL
+CNR6215530366,Success,eBike,Devanahalli,Jayanagar,Cash,No,26.36,7.28,4.12,4.42
+CNR4314026109,Success,"Prime SUV","Tumkur Road","Bannerghatta Road",Cash,No,25.32,7.26,4.07,4.37
+CNR9027465661,Success,"Prime Sedan","BTM Layout",Majestic,UPI,No,24.28,7.25,4.02,4.32
+CNR5003494701,"Canceled by Driver",Mini,"Sarjapur Road",Majestic,null,Unknown,23.24,7.23,NULL,NULL
+CNR2402140477,Success,Bike,Peenya,Devanahalli,Cash,No,22.20,7.22,6.44,3.74
+CNR2486510891,Success,Auto,Chickpet,Hennur,UPI,No,21.16,7.20,6.73,3.67
+CNR9704400677,Success,Mini,"Langford Town",Vijayanagar,Cash,No,20.12,7.19,7.02,3.60
+CNR8836460204,Success,eBike,Bellandur,Shantinagar,UPI,No,19.08,7.17,7.31,3.53
+CNR3697318611,Success,Bike,"Sarjapur Road",Chickpet,UPI,No,18.04,7.16,7.60,3.46
+CNR6541289543,"Canceled by Driver","Prime SUV","Frazer Town",Whitefield,null,Unknown,17.00,7.14,NULL,NULL
+CNR8369601219,"Canceled by Driver","Prime SUV","Richmond Town",Jayanagar,null,Unknown,15.96,7.13,NULL,NULL
+CNR8346388703,"Canceled by Driver",Mini,"Magadi Road","BTM Layout",null,Unknown,14.92,7.11,NULL,NULL
+CNR4445082348,Success,Mini,Yelahanka,"BTM Layout",UPI,No,13.88,7.10,4.40,9.10
+CNR5528764313,Success,"Prime SUV","Ramamurthy Nagar","Bannerghatta Road",UPI,No,12.84,7.09,4.60,NULL
+CNR3967141570,"Canceled by Driver",Auto,Padmanabhanagar,"Ramamurthy Nagar",null,Unknown,11.80,7.07,NULL,NULL
+CNR7054352438,"Driver Not Found",Mini,Hennur,"Cox Town",null,Unknown,10.76,7.06,NULL,NULL
+CNR1640228589,Success,"Prime Sedan",Kengeri,"Mysore Road",Cash,Yes,9.72,7.04,0.53,5.00
+CNR6684033796,Success,Auto,Indiranagar,Whitefield,Cash,No,8.68,7.03,NULL,5.10
+CNR4158584924,Success,Auto,"Sahakar Nagar","Ramamurthy Nagar",UPI,No,7.64,7.01,NULL,5.20
+CNR5133236273,"Canceled by Driver","Prime Plus",Banashankari,Chickpet,null,Unknown,6.60,7.00,NULL,NULL
+CNR5661490576,Success,Bike,"Magadi Road","Electronic City",Cash,No,5.56,6.98,2.30,2.20
+CNR2304446757,Success,eBike,"Rajarajeshwari Nagar","MG Road",Cash,No,4.52,6.97,1.70,1.90
+CNR3780555542,"Canceled by Customer",Mini,"Tumkur Road",Chamarajpet,null,Unknown,3.48,6.95,NULL,NULL
+CNR1559782157,Success,Auto,Ulsoor,Bellandur,Cash,No,2.44,6.94,4.34,6.22
+CNR7623690602,Success,Bike,"Cox Town",Malleshwaram,UPI,Yes,1.40,6.92,4.46,6.54
+CNR2098165200,Success,"Prime Sedan",Yelahanka,"Ramamurthy Nagar",UPI,No,0.36,6.91,4.58,6.86
+CNR5502012579,Success,Mini,Vijayanagar,Kengeri,Cash,No,NULL,6.89,4.70,7.18
+CNR4698965967,Success,"Prime Sedan","Ramamurthy Nagar",Chickpet,Cash,No,NULL,6.88,4.82,7.50
+CNR8566688320,"Driver Not Found",Bike,Chickpet,Shivajinagar,null,Unknown,NULL,6.86,NULL,NULL
+CNR8014852782,"Canceled by Customer","Prime Plus",Kammanahalli,"Magadi Road",null,Unknown,NULL,6.85,NULL,NULL
+CNR6012739836,"Driver Not Found","Prime Sedan","Ramamurthy Nagar","Magadi Road",null,Unknown,NULL,6.84,NULL,NULL
+CNR3404012929,Success,Mini,Chickpet,Chamarajpet,Cash,No,NULL,6.82,NULL,0.20
+CNR9282027845,Success,Bike,Yeshwanthpur,"KR Puram",UPI,No,NULL,6.81,NULL,NULL
+CNR5508853708,"Canceled by Customer","Prime Plus",Shivajinagar,"HSR Layout",null,Unknown,NULL,6.79,NULL,NULL
+CNR4241139231,Success,"Prime Plus",Kammanahalli,Shivajinagar,Cash,No,NULL,6.78,4.70,4.10
+CNR8306274838,"Driver Not Found",Bike,Bellandur,"Rajarajeshwari Nagar",null,Unknown,NULL,6.76,NULL,NULL
+CNR1700243966,"Canceled by Customer",eBike,"Mysore Road",Vijayanagar,null,Unknown,NULL,6.75,NULL,NULL
+CNR1649342329,"Canceled by Driver","Prime Sedan",Yelahanka,Majestic,null,Unknown,NULL,6.73,NULL,NULL
+CNR5744401218,Success,Bike,Yelahanka,Varthur,UPI,No,NULL,6.72,3.00,8.70
+CNR7221640450,Success,"Prime Sedan","RT Nagar",Whitefield,UPI,No,NULL,6.70,2.90,NULL
+CNR8395803905,"Canceled by Driver",eBike,"Bannerghatta Road","RT Nagar",null,Unknown,NULL,6.69,NULL,NULL
+CNR225602446,Success,"Prime SUV","Mysore Road",Peenya,Cash,No,NULL,6.67,2.28,1.18
+CNR3639382510,Success,"Prime SUV","BTM Layout",Malleshwaram,Cash,No,NULL,6.66,1.93,0.63
