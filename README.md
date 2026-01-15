@@ -1,4 +1,4 @@
-# OLA Ride Performance & Revenue Analytics Dashboard
+# OLA Ride Performance & Revenue Analytics Project
 
 ## 📌 Project Overview
 This project focuses on analyzing OLA ride booking data to understand overall business performance, revenue trends, ride success rates, cancellations, and customer behavior.  
